@@ -2221,18 +2221,12 @@ bool Frame_Glom::create_database(const Glib::ustring& database_name, const Glib:
 
   if(!result)
   {
-    //Tell the user:
-    Gtk::Dialog* dialog = nullptr;
-    Utils::get_glade_widget_with_warning("glom_developer.glade", "dialog_error_create_database", dialog);
-    if(!dialog)
-    {
-      std::cerr << G_STRFUNC << ": dialog is null.\n";
-      return false;
-    }
+    const auto message = _("Glom could not create the new database. Maybe you do not have the necessary access rights. Please contact your system administrator.");
+    Gtk::MessageDialog dialog(UiUtils::bold_message(_("Database Creation Failed")), true, Gtk::MESSAGE_ERROR );
+    dialog.set_secondary_text(message);
+    dialog.set_transient_for(*pWindowApp);
 
-    dialog->set_transient_for(*pWindowApp);
-    Glom::UiUtils::dialog_run_with_help(dialog, "dialog_error_create_database");
-    delete dialog;
+    dialog.run();
 
     return false;
   }
