@@ -1,0 +1,195 @@
+# Danish translation for glom.
+# Copyright (C) 2017 glom's COPYRIGHT HOLDER
+# This file is distributed under the same license as the glom package.
+# Joe Hansen <joedalton2@yahoo.dk>, 2017.
+# scootergrisen, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: glom master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?\n"
+"product=glom&keywords=I18N+L10N&component=general\n"
+"PO-Revision-Date: 2020-11-11 00:00+0200\n"
+"Last-Translator: scootergrisen\n"
+"Language-Team: Danish <dansk@dansk-gruppen.dk>\n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "Database Title"
+msgid "Music Collection"
+msgstr "Musiksamling"
+
+msgctxt "Table (albums)"
+msgid "Albums"
+msgstr "Album"
+
+msgctxt "Field (album_id). Parent table: albums"
+msgid "Album ID"
+msgstr "Album-id"
+
+msgctxt "Field (comments). Parent table: albums"
+msgid "Comments"
+msgstr "Kommentarer"
+
+msgctxt "Field (name). Parent table: albums"
+msgid "Name"
+msgstr "Navn"
+
+msgctxt "Field (artist_id). Parent table: albums"
+msgid "Artist ID"
+msgstr "Kunstner-id"
+
+msgctxt "Field (publisher_id). Parent table: albums"
+msgid "Publisher ID"
+msgstr "Udgiver-id"
+
+msgctxt "Field (year). Parent table: albums"
+msgid "Year"
+msgstr "År"
+
+msgctxt "Relationship (artist). Parent table: albums"
+msgid "Artist"
+msgstr "Kunstner"
+
+msgctxt "Relationship (publisher). Parent table: albums"
+msgid "Publisher"
+msgstr "Udgiver"
+
+msgctxt "Relationship (songs). Parent table: albums"
+msgid "Songs"
+msgstr "Sange"
+
+msgctxt "Report (albums_by_artist). Parent table: albums"
+msgid "Albums By Artist"
+msgstr "Album efter kunstner"
+
+msgctxt "Custom Title. Parent table: albums, Parent Report: albums_by_artist"
+msgid "Artist Name"
+msgstr "Kunstnernavn"
+
+msgctxt "Layout Group (overview). Parent table: albums"
+msgid "Overview"
+msgstr "Overblik"
+
+msgctxt "Layout Group (details). Parent table: albums"
+msgid "Details"
+msgstr "Detaljer"
+
+msgctxt "Layout Group (artist). Parent table: albums, Parent Group: details"
+msgid "Artist"
+msgstr "Kunstner"
+
+msgctxt "Layout Group (publisher). Parent table: albums, Parent Group: details"
+msgid "Publisher"
+msgstr "Udgiver"
+
+msgctxt "Custom Title. Parent table: albums"
+msgid "Artist Name"
+msgstr "Kunstnernavn"
+
+msgctxt "Custom Title. Parent table: albums"
+msgid "Publisher Name"
+msgstr "Udgivernavn"
+
+msgctxt "Table (artists)"
+msgid "Artists"
+msgstr "Kunstnere"
+
+msgctxt "Field (artist_id). Parent table: artists"
+msgid "Artist ID"
+msgstr "Kunstner-id"
+
+msgctxt "Field (description). Parent table: artists"
+msgid "Description"
+msgstr "Beskrivelse"
+
+msgctxt "Field (comments). Parent table: artists"
+msgid "Comments"
+msgstr "Kommentarer"
+
+msgctxt "Field (name). Parent table: artists"
+msgid "Name"
+msgstr "Navn"
+
+msgctxt "Relationship (albums). Parent table: artists"
+msgid "Albums"
+msgstr "Album"
+
+msgctxt "Layout Group (overview). Parent table: artists"
+msgid "Overview"
+msgstr "Overblik"
+
+msgctxt "Layout Group (details). Parent table: artists"
+msgid "Details"
+msgstr "Detaljer"
+
+msgctxt "Table (publishers)"
+msgid "Publishers"
+msgstr "Udgivere"
+
+msgctxt "Field (publishers_id). Parent table: publishers"
+msgid "Publisher ID"
+msgstr "Udgiver-id"
+
+msgctxt "Field (comments). Parent table: publishers"
+msgid "Comments"
+msgstr "Kommentarer"
+
+msgctxt "Field (name). Parent table: publishers"
+msgid "Name"
+msgstr "Navn"
+
+msgctxt "Relationship (albums). Parent table: publishers"
+msgid "Albums"
+msgstr "Album"
+
+msgctxt "Layout Group (overview). Parent table: publishers"
+msgid "Overview"
+msgstr "Overblik"
+
+msgctxt "Layout Group (details). Parent table: publishers"
+msgid "Details"
+msgstr "Detaljer"
+
+msgctxt "Table (songs)"
+msgid "Songs"
+msgstr "Sange"
+
+msgctxt "Field (song_id). Parent table: songs"
+msgid "Song ID"
+msgstr "Sang-id"
+
+msgctxt "Field (comments). Parent table: songs"
+msgid "Comments"
+msgstr "Kommentarer"
+
+msgctxt "Field (album_id). Parent table: songs"
+msgid "Album ID"
+msgstr "Album-id"
+
+msgctxt "Field (name). Parent table: songs"
+msgid "Name"
+msgstr "Navn"
+
+msgctxt "Relationship (album). Parent table: songs"
+msgid "Album"
+msgstr "Album"
+
+msgctxt "Layout Group (overview). Parent table: songs"
+msgid "Overview"
+msgstr "Overblik"
+
+msgctxt "Layout Group (details). Parent table: songs"
+msgid "Details"
+msgstr "Detaljer"
+
+msgctxt "Layout Group (album). Parent table: songs, Parent Group: details"
+msgid "Album"
+msgstr "Album"
+
+msgctxt "Layout Group (artist). Parent table: songs, Parent Group: details"
+msgid "Album Artist"
+msgstr "Albumkunstner"
