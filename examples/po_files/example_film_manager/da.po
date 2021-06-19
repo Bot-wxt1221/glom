@@ -1,22 +1,22 @@
-# Danish translation Openismus Film Manager.
-# Copyright (C) 2017 Openismus Film Manager & nedenstående oversættere.
-# This file is distributed under the same license as the Openismus Film Manager package.
+# Danish translation for glom.
+# Copyright (C) 2017 glom og nedenstående oversættere.
+# This file is distributed under the same license as the glom package.
 # Joe Hansen <joedalton2@yahoo.dk>, 2012, 2017.
+# scootergrisen, 2020.
 #
 # accommodation -> indkvartering (måske akkomodation)
 # county -> region (andre forslag?)
 # cast -> medvirkende (for gruppen af skuespillere der er med i en produktion)
-# crew -> hold
 # location -> location (nok ikke lokalitet eller sted når det drejer sig om film)
-# makeup -> kosmetik (godt nok i tvivl her).
 # prop -> rekvisit
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Openismus Film Manager\n"
+"Project-Id-Version: glom master\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?\n"
-"PO-Revision-Date: 2013-10-31 12:25+0100\n"
-"Last-Translator: Joe Hansen <joedalton2@yahoo.dk>\n"
+"product=glom&keywords=I18N+L10N&component=general\n"
+"PO-Revision-Date: 2020-11-11 00:00+0200\n"
+"Last-Translator: scootergrisen\n"
 "Language-Team: Danish <dansk@dansk-gruppen.dk>\n"
 "Language: da\n"
 "MIME-Version: 1.0\n"
@@ -62,7 +62,7 @@ msgstr "Land"
 
 msgctxt "Field (address_postcode). Parent table: accommodation"
 msgid "Postcode"
-msgstr "Postnr."
+msgstr "Postnummer"
 
 msgctxt "Field (contact_id). Parent table: accommodation"
 msgid "Contact ID"
@@ -108,7 +108,7 @@ msgstr "Model"
 
 msgctxt "Field (registration). Parent table: cars"
 msgid "Registration"
-msgstr "Registrering"
+msgstr "Registreringsnummer"
 
 msgctxt "Field (description). Parent table: cars"
 msgid "Description"
@@ -160,7 +160,7 @@ msgstr "Scener"
 
 msgctxt "Report (cast_list). Parent table: characters"
 msgid "Cast List"
-msgstr "Rolleliste"
+msgstr "Medvirkendeliste"
 
 msgctxt "Custom Title. Parent table: characters, Parent Report: cast_list"
 msgid "Actor"
@@ -220,11 +220,11 @@ msgstr "Skuespiller"
 
 msgctxt "Table (companies)"
 msgid "Companies"
-msgstr "Firmaer"
+msgstr "Selskaber"
 
 msgctxt "Field (company_id). Parent table: companies"
 msgid "Company ID"
-msgstr "Firma-id"
+msgstr "Selskabs-id"
 
 msgctxt "Field (name). Parent table: companies"
 msgid "Name"
@@ -244,11 +244,11 @@ msgstr "Logo"
 
 msgctxt "Field (website). Parent table: companies"
 msgid "Web Site"
-msgstr "Internetside"
+msgstr "Websted"
 
 msgctxt "Relationship (staff). Parent table: companies"
 msgid "Staff"
-msgstr "Stab"
+msgstr "Ansatte"
 
 msgctxt "Layout Group (overview). Parent table: companies"
 msgid "Overview"
@@ -344,7 +344,7 @@ msgstr "Spanien"
 
 msgctxt "Field (address_postcode). Parent table: contacts"
 msgid "Postcode"
-msgstr "Postnr."
+msgstr "Postnummer"
 
 msgctxt "Field (date_of_birth). Parent table: contacts"
 msgid "Date Of Birth"
@@ -356,11 +356,11 @@ msgstr "Kommentarer"
 
 msgctxt "Field (name_full). Parent table: contacts"
 msgid "Full Name"
-msgstr "Navn"
+msgstr "Fulde navn"
 
 msgctxt "Field (company_id). Parent table: contacts"
 msgid "Company ID"
-msgstr "Firma-id"
+msgstr "Selskabs-id"
 
 msgctxt "Field (picture). Parent table: contacts"
 msgid "Picture"
@@ -368,11 +368,11 @@ msgstr "Billede"
 
 msgctxt "Field (tel_home). Parent table: contacts"
 msgid "Home Telephone"
-msgstr "Telefon"
+msgstr "Telefon (hjemme)"
 
 msgctxt "Field (tel_mobile). Parent table: contacts"
 msgid "Mobile Telephone"
-msgstr "Mobiltelefon"
+msgstr "Telefon (mobil)"
 
 msgctxt "Field (tel_fax). Parent table: contacts"
 msgid "Fax"
@@ -380,11 +380,11 @@ msgstr "Fax"
 
 msgctxt "Field (tel_work). Parent table: contacts"
 msgid "Work Telephone"
-msgstr "Arbejdstelefon"
+msgstr "Telefon (arbejde)"
 
 msgctxt "Field (email). Parent table: contacts"
 msgid "Email"
-msgstr "E-post"
+msgstr "E-mail"
 
 msgctxt "Field (address_street1). Parent table: contacts"
 msgid "Street (line 1)"
@@ -392,7 +392,7 @@ msgstr "Gade (linje 1)"
 
 msgctxt "Field (website). Parent table: contacts"
 msgid "Web Site"
-msgstr "Internetside"
+msgstr "Websted"
 
 msgctxt "Field (agent_id). Parent table: contacts"
 msgid "Agent ID"
@@ -404,7 +404,7 @@ msgstr "Kunstnernavn"
 
 msgctxt "Relationship (company). Parent table: contacts"
 msgid "Company"
-msgstr "Firma"
+msgstr "Selskab"
 
 msgctxt "Relationship (agent). Parent table: contacts"
 msgid "Agent"
@@ -412,7 +412,7 @@ msgstr "Agent"
 
 msgctxt "Relationship (crew). Parent table: contacts"
 msgid "Crew"
-msgstr "Hold"
+msgstr "Besætning"
 
 msgctxt "Relationship (cast). Parent table: contacts"
 msgid "Cast"
@@ -420,11 +420,11 @@ msgstr "Medvirkende"
 
 msgctxt "Report (by_country). Parent table: contacts"
 msgid "Contacts By Country"
-msgstr "Kontakter per land"
+msgstr "Kontakter efter land"
 
 msgctxt "Report (by_country_by_town). Parent table: contacts"
 msgid "By Country, By Town"
-msgstr "Per land, per by"
+msgstr "Efter land, efter by"
 
 msgctxt "Print Layout (contact_details). Parent table: contacts"
 msgid "Contact Details"
@@ -472,11 +472,11 @@ msgstr "Efternavn:"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Company"
-msgstr "Firma"
+msgstr "Selskab"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Company ID:"
-msgstr "Firma-id:"
+msgstr "Selskabs-id:"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Name:"
@@ -508,7 +508,7 @@ msgstr "Land:"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Postcode:"
-msgstr "Postnr.:"
+msgstr "Postnummer:"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Telephone"
@@ -516,15 +516,15 @@ msgstr "Telefon"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Work Telephone:"
-msgstr "Arbejdstelefon:"
+msgstr "Telefon (arbejde):"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Mobile Telephone:"
-msgstr "Mobiltelefon:"
+msgstr "Telefon (mobil):"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Home Telephone:"
-msgstr "Telefon:"
+msgstr "Telefon (hjemme):"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Fax:"
@@ -540,7 +540,7 @@ msgstr "Agent-id:"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Crew"
-msgstr "Hold"
+msgstr "Besætning"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Cast"
@@ -548,11 +548,11 @@ msgstr "Medvirkende"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Email:"
-msgstr "E-post:"
+msgstr "E-mail:"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Web Site:"
-msgstr "Internetside:"
+msgstr "Websted:"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Date Of Birth:"
@@ -584,7 +584,7 @@ msgctxt ""
 "Layout Group (company). Parent table: contacts, Parent Group: details, "
 "Parent Group: notebook_contact"
 msgid "Company"
-msgstr "Firma"
+msgstr "Selskab"
 
 msgctxt ""
 "Layout Group (address). Parent table: contacts, Parent Group: details, "
@@ -606,7 +606,7 @@ msgstr "Agent"
 
 msgctxt "Custom Title. Parent table: contacts"
 msgid "Company Name"
-msgstr "Firmanavn"
+msgstr "Selskabsnavn"
 
 msgctxt "Table (costume)"
 msgid "Costume"
@@ -638,11 +638,11 @@ msgstr "Detaljer"
 
 msgctxt "Table (crew)"
 msgid "Crew"
-msgstr "Hold"
+msgstr "Besætning"
 
 msgctxt "Field (crew_id). Parent table: crew"
 msgid "Crew ID"
-msgstr "Hold-id"
+msgstr "Besætnings-id"
 
 msgctxt "Field (description). Parent table: crew"
 msgid "Description"
@@ -674,7 +674,7 @@ msgstr "Scener"
 
 msgctxt "Report (crew_list). Parent table: crew"
 msgid "Crew List"
-msgstr "Holdliste"
+msgstr "Besætningsliste"
 
 msgctxt "Custom Title. Parent table: crew, Parent Report: crew_list"
 msgid "Department Name"
@@ -804,7 +804,7 @@ msgstr "Kommentarer"
 
 msgctxt "Relationship (department_crew). Parent table: departments"
 msgid "Department Crew"
-msgstr "Afdelingshold"
+msgstr "Afdelingsbesætning"
 
 msgctxt "Layout Group (overview). Parent table: departments"
 msgid "Overview"
@@ -905,7 +905,7 @@ msgstr "Ankomst"
 
 msgctxt "Table (locations)"
 msgid "Locations"
-msgstr "Locationer"
+msgstr "Locations"
 
 msgctxt "Field (location_id). Parent table: locations"
 msgid "Location ID"
@@ -933,7 +933,7 @@ msgstr "Land"
 
 msgctxt "Field (address_postcode). Parent table: locations"
 msgid "Postcode"
-msgstr "Postkode"
+msgstr "Postnummer"
 
 msgctxt "Field (comments). Parent table: locations"
 msgid "Comments"
@@ -999,11 +999,11 @@ msgstr "Detaljer"
 
 msgctxt "Table (scene_cast)"
 msgid "Scene Cast"
-msgstr "Scene-medvirkende"
+msgstr "Scenemedvirkende"
 
 msgctxt "Field (scene_cast_id). Parent table: scene_cast"
 msgid "Scene Cast ID"
-msgstr "Scene-medvirkende-id"
+msgstr "Scenemedvirkende-id"
 
 msgctxt "Field (comments). Parent table: scene_cast"
 msgid "Comments"
@@ -1067,11 +1067,11 @@ msgstr "Kostumenavn"
 
 msgctxt "Table (scene_crew)"
 msgid "Scene Crew"
-msgstr "Scenehold"
+msgstr "Scenebesætning"
 
 msgctxt "Field (scene_crew_id). Parent table: scene_crew"
 msgid "Scene Crew ID"
-msgstr "Scenehold-id"
+msgstr "Scenebesætnings-id"
 
 msgctxt "Field (comments). Parent table: scene_crew"
 msgid "Comments"
@@ -1103,7 +1103,7 @@ msgstr "Detaljer"
 
 msgctxt "Field (scene_equipment_id). Parent table: scene_equipment"
 msgid "Scene Equipment ID"
-msgstr "Scene-udstyrs-id"
+msgstr "Sceneudstyrs-id"
 
 msgctxt "Field (comments). Parent table: scene_equipment"
 msgid "Comments"
@@ -1127,11 +1127,11 @@ msgstr "Detaljer"
 
 msgctxt "Table (scene_extras)"
 msgid "Scene Extras"
-msgstr "Sceneekstra"
+msgstr "Scenestatister"
 
 msgctxt "Field (scene_extras_id). Parent table: scene_extras"
 msgid "Scene Extras ID"
-msgstr "Sceneekstra-id"
+msgstr "Scenestatister-id"
 
 msgctxt "Field (description). Parent table: scene_extras"
 msgid "Description"
@@ -1165,11 +1165,11 @@ msgstr "Detaljer"
 
 msgctxt "Table (scene_makeup)"
 msgid "Scene Makeup"
-msgstr "Scenekosmetik"
+msgstr "Scenemakeup"
 
 msgctxt "Field (scene_makeup_id). Parent table: scene_makeup"
 msgid "Scene Makeup ID"
-msgstr "Scenekosmetik-id"
+msgstr "Scenemakeup-id"
 
 msgctxt "Field (description). Parent table: scene_makeup"
 msgid "Description"
@@ -1249,7 +1249,7 @@ msgstr "Dato"
 
 msgctxt "Field (time). Parent table: scenes"
 msgid "Time"
-msgstr "Tid"
+msgstr "Klokkeslæt"
 
 msgctxt "Field (minutes). Parent table: scenes"
 msgid "Stop (minutes)"
@@ -1311,11 +1311,11 @@ msgstr "Manuskriptdag"
 
 msgctxt "Relationship (location). Parent table: scenes"
 msgid "Locations"
-msgstr "Locationer"
+msgstr "Locations"
 
 msgctxt "Relationship (scene_crew). Parent table: scenes"
 msgid "Additional Crew"
-msgstr "Yderligere holdmedlemmer"
+msgstr "Yderligere besætning"
 
 msgctxt "Relationship (scene_cast). Parent table: scenes"
 msgid "Cast"
@@ -1339,7 +1339,7 @@ msgstr "Kostume"
 
 msgctxt "Relationship (scene_makeup). Parent table: scenes"
 msgid "Additional Makeup"
-msgstr "Yderligere kosmetik"
+msgstr "Yderligere makeup"
 
 msgctxt "Layout Group (overview). Parent table: scenes"
 msgid "Overview"
@@ -1351,7 +1351,7 @@ msgstr "Detaljer"
 
 msgctxt "Text. Parent table: scenes, Parent Group: details"
 msgid "The location name will be used if the name is empty."
-msgstr "Locationsnavnet vil blive anvendt hvis navnet er tomt."
+msgstr "Locationnavnet bruges hvis navnet er tomt."
 
 msgctxt "Layout Group (scenario). Parent table: scenes, Parent Group: details"
 msgid "Scenario"
@@ -1370,4 +1370,3 @@ msgctxt ""
 "Group: notebook"
 msgid "Actor's Name"
 msgstr "Skuespillers navn"
-
