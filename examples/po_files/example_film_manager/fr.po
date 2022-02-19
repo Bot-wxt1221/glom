@@ -1,15 +1,21 @@
+#
+# Someone <someone@someone.com>, 2022.
+# Charles Monzat <charles.monzat@free.fr>, 2022.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Openismus Film Manager\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?\n"
-"product=glom&keywords=I18N+L10N&component=general\n"
-"PO-Revision-Date: 2013-10-31 12:25+0100\n"
-"Last-Translator: Someone <someone@someone.com>\n"
-"Language-Team:  <someone@someone.com>\n"
+"PO-Revision-Date: 2022-02-14 20:24+0100\n"
+"Last-Translator: Charles Monzat <charles.monzat@free.fr>\n"
+"Language-Team: GNOME French Team <gnomefr@traduc.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"product=glom&keywords=I18N+L10N&component=general\n"
+"X-Generator: Gtranslator 40.0\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 msgctxt "Database Title"
 msgid "Openismus Film Manager"
@@ -103,7 +109,7 @@ msgstr "Description"
 
 msgctxt "Field (comment). Parent table: cars"
 msgid "Comment"
-msgstr "Commentaire "
+msgstr "Commentaire"
 
 msgctxt "Layout Group (overview). Parent table: cars"
 msgid "Overview"
@@ -155,7 +161,7 @@ msgstr "Acteur"
 
 msgctxt "Custom Title. Parent table: characters, Parent Report: cast_list"
 msgid "Agent"
-msgstr "Imprésario"
+msgstr "Agent"
 
 msgctxt "Layout Group (overview). Parent table: characters, Parent Group: main"
 msgid "Overview"
@@ -175,15 +181,15 @@ msgctxt ""
 "Custom Title. Parent table: characters, Parent Group: main, Parent Group: "
 "details"
 msgid "Actor's Name"
-msgstr "Nom de l'acteur"
+msgstr "Nom de l’acteur"
 
 msgctxt "Custom Title. Parent table: characters"
 msgid "Actor's Contact ID"
-msgstr "ID du contact de l'acteur"
+msgstr "ID du contact de l’acteur"
 
 msgctxt "Custom Title. Parent table: characters"
 msgid "Actor's Name"
-msgstr "Nom de l'acteur"
+msgstr "Nom de l’acteur"
 
 msgctxt "Layout Group (overview). Parent table: characters"
 msgid "Overview"
@@ -199,7 +205,7 @@ msgstr "Acteur"
 
 msgctxt "Custom Title. Parent table: characters, Parent Group: details"
 msgid "Actor's Name"
-msgstr "Nom de l'acteur"
+msgstr "Nom de l’acteur"
 
 msgctxt "Custom Title. Parent table: characters"
 msgid "Actor"
@@ -231,7 +237,7 @@ msgstr "Logo"
 
 msgctxt "Field (website). Parent table: companies"
 msgid "Web Site"
-msgstr "Site Web"
+msgstr "Site web"
 
 msgctxt "Relationship (staff). Parent table: companies"
 msgid "Staff"
@@ -295,7 +301,7 @@ msgstr "Pr"
 
 msgctxt "Field (address_street2). Parent table: contacts"
 msgid "Street (line 2)"
-msgstr "Rue (2e ligne)"
+msgstr "Rue (ligne 2)"
 
 msgctxt "Field (address_town). Parent table: contacts"
 msgid "Town"
@@ -319,7 +325,7 @@ msgstr "Royaume-Uni"
 
 msgctxt "Field Choice. Parent table: contacts, Parent Field: address_country"
 msgid "USA"
-msgstr "USA"
+msgstr "États-Unis"
 
 msgctxt "Field Choice. Parent table: contacts, Parent Field: address_country"
 msgid "France"
@@ -379,11 +385,11 @@ msgstr "Rue (ligne 1)"
 
 msgctxt "Field (website). Parent table: contacts"
 msgid "Web Site"
-msgstr "Site Web"
+msgstr "Site web"
 
 msgctxt "Field (agent_id). Parent table: contacts"
 msgid "Agent ID"
-msgstr "ID de l'agent"
+msgstr "ID de l’agent"
 
 msgctxt "Field (stagename). Parent table: contacts"
 msgid "Stagename"
@@ -415,143 +421,143 @@ msgstr "Par pays, par ville"
 
 msgctxt "Print Layout (contact_details). Parent table: contacts"
 msgid "Contact Details"
-msgstr ""
+msgstr "Détails du contact"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Contacts"
-msgstr ""
+msgstr "Contacts"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Overview"
-msgstr ""
+msgstr "Résumé"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Contact ID:"
-msgstr ""
+msgstr "ID du contact :"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Full Name:"
-msgstr ""
+msgstr "Nom complet :"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Details"
-msgstr ""
+msgstr "Détails"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Name"
-msgstr ""
+msgstr "Nom"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Title:"
-msgstr ""
+msgstr "Titre :"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "First Name:"
-msgstr ""
+msgstr "Prénom :"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Second Name:"
-msgstr ""
+msgstr "Deuxième nom :"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Last Name:"
-msgstr ""
+msgstr "Nom :"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Company"
-msgstr ""
+msgstr "Société"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Company ID:"
-msgstr ""
+msgstr "ID de la société :"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Name:"
-msgstr ""
+msgstr "Nom :"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Address"
-msgstr ""
+msgstr "Adresse"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Street (line 1):"
-msgstr ""
+msgstr "Rue (ligne 1) :"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Street (line 2):"
-msgstr ""
+msgstr "Rue (ligne 2) :"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Town:"
-msgstr ""
+msgstr "Ville :"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "State:"
-msgstr ""
+msgstr "État :"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Country:"
-msgstr ""
+msgstr "Pays :"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Postcode:"
-msgstr ""
+msgstr "Code postal :"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Telephone"
-msgstr ""
+msgstr "Téléphone"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Work Telephone:"
-msgstr ""
+msgstr "Téléphone travail :"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Mobile Telephone:"
-msgstr ""
+msgstr "Téléphone portable :"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Home Telephone:"
-msgstr ""
+msgstr "Téléphone domicile :"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Fax:"
-msgstr ""
+msgstr "Fax :"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Agent"
-msgstr ""
+msgstr "Agent"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Agent ID:"
-msgstr ""
+msgstr "ID de l’agent :"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Crew"
-msgstr ""
+msgstr "Équipe"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Cast"
-msgstr ""
+msgstr "Acteurs"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Email:"
-msgstr ""
+msgstr "Adresse électronique :"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Web Site:"
-msgstr ""
+msgstr "Site web :"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Date Of Birth:"
-msgstr ""
+msgstr "Date de naissance :"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Picture:"
-msgstr ""
+msgstr "Image :"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Comments:"
-msgstr ""
+msgstr "Commentaires :"
 
 msgctxt "Layout Group (overview). Parent table: contacts"
 msgid "Overview"
@@ -629,7 +635,7 @@ msgstr "Équipe"
 
 msgctxt "Field (crew_id). Parent table: crew"
 msgid "Crew ID"
-msgstr "ID de l'équipe"
+msgstr "ID de l’équipe"
 
 msgctxt "Field (description). Parent table: crew"
 msgid "Description"
@@ -661,7 +667,7 @@ msgstr "Scènes"
 
 msgctxt "Report (crew_list). Parent table: crew"
 msgid "Crew List"
-msgstr "Liste de l'équipe"
+msgstr "Liste de l’équipe"
 
 msgctxt "Custom Title. Parent table: crew, Parent Report: crew_list"
 msgid "Department Name"
@@ -705,7 +711,7 @@ msgstr "ID de la livraison"
 
 msgctxt "Field (arrival_date). Parent table: deliveries"
 msgid "Arrival Date"
-msgstr "Date d'arrivée"
+msgstr "Date d’arrivée"
 
 msgctxt "Field (departure_contact_id). Parent table: deliveries"
 msgid "Contact ID"
@@ -717,11 +723,11 @@ msgstr "ID du contact"
 
 msgctxt "Field (arrival_time). Parent table: deliveries"
 msgid "Arrival Time"
-msgstr "Heure d'arrivée"
+msgstr "Heure d’arrivée"
 
 msgctxt "Field (arrival_place). Parent table: deliveries"
 msgid "Arrival Place"
-msgstr "Lieu d'arrivée"
+msgstr "Lieu d’arrivée"
 
 msgctxt "Field (departure_time). Parent table: deliveries"
 msgid "Departure Time"
@@ -749,7 +755,7 @@ msgstr "Contact au départ"
 
 msgctxt "Relationship (arrival_contact). Parent table: deliveries"
 msgid "Arrival Contact"
-msgstr "Contact à l'arrivée"
+msgstr "Contact à l’arrivée"
 
 msgctxt "Custom Title. Parent table: deliveries"
 msgid "Departure Name"
@@ -757,7 +763,7 @@ msgstr "Nom du départ"
 
 msgctxt "Custom Title. Parent table: deliveries"
 msgid "Arrival Name"
-msgstr "Nom de l'arrivée"
+msgstr "Nom de l’arrivée"
 
 msgctxt "Layout Group (overview). Parent table: deliveries"
 msgid "Overview"
@@ -803,7 +809,7 @@ msgstr "Équipement"
 
 msgctxt "Field (equipment_id). Parent table: equipment"
 msgid "Equipment ID"
-msgstr "ID de l'équipement"
+msgstr "ID de l’équipement"
 
 msgctxt "Field (description). Parent table: equipment"
 msgid "Description"
@@ -835,7 +841,7 @@ msgstr "ID du trajet"
 
 msgctxt "Field (comment). Parent table: journeys"
 msgid "Comment"
-msgstr "Commentaire "
+msgstr "Commentaire"
 
 msgctxt "Field (description). Parent table: journeys"
 msgid "Description"
@@ -843,15 +849,15 @@ msgstr "Description"
 
 msgctxt "Field (arrival_date). Parent table: journeys"
 msgid "Arrival Date"
-msgstr "Date d'arrivée"
+msgstr "Date d’arrivée"
 
 msgctxt "Field (arrival_time). Parent table: journeys"
 msgid "Arrival Time"
-msgstr "Heure d'arrivée"
+msgstr "Heure d’arrivée"
 
 msgctxt "Field (arrival_place). Parent table: journeys"
 msgid "Arrival Place"
-msgstr "Lieu d'arrivée"
+msgstr "Lieu d’arrivée"
 
 msgctxt "Field (departure_date). Parent table: journeys"
 msgid "Departure Date"
@@ -896,7 +902,7 @@ msgstr "Emplacements"
 
 msgctxt "Field (location_id). Parent table: locations"
 msgid "Location ID"
-msgstr "ID de l'emplacement"
+msgstr "ID de l’emplacement"
 
 msgctxt "Field (name). Parent table: locations"
 msgid "Name"
@@ -952,8 +958,7 @@ msgid "Address"
 msgstr "Adresse"
 
 msgctxt ""
-"Layout Group (contact_person). Parent table: locations, Parent Group: "
-"details"
+"Layout Group (contact_person). Parent table: locations, Parent Group: details"
 msgid "Contact Person"
 msgstr "Personne à contacter"
 
@@ -1091,7 +1096,7 @@ msgstr "Détails"
 
 msgctxt "Field (scene_equipment_id). Parent table: scene_equipment"
 msgid "Scene Equipment ID"
-msgstr "Id de l'équipement de la scène"
+msgstr "ID de l’équipement de la scène"
 
 msgctxt "Field (comments). Parent table: scene_equipment"
 msgid "Comments"
@@ -1099,7 +1104,7 @@ msgstr "Commentaires"
 
 msgctxt "Field (equipment_id). Parent table: scene_equipment"
 msgid "Equipment ID"
-msgstr "ID de l'équipement"
+msgstr "ID de l’équipement"
 
 msgctxt "Field (scene_id). Parent table: scene_equipment"
 msgid "Scene ID"
@@ -1229,7 +1234,7 @@ msgstr "Description"
 
 msgctxt "Field (location_id). Parent table: scenes"
 msgid "Location ID"
-msgstr "ID de l'emplacement"
+msgstr "ID de l’emplacement"
 
 msgctxt "Field (date). Parent table: scenes"
 msgid "Date"
@@ -1303,7 +1308,7 @@ msgstr "Emplacements"
 
 msgctxt "Relationship (scene_crew). Parent table: scenes"
 msgid "Additional Crew"
-msgstr "Équipe supplémentaires"
+msgstr "Équipe supplémentaire"
 
 msgctxt "Relationship (scene_cast). Parent table: scenes"
 msgid "Cast"
@@ -1339,7 +1344,7 @@ msgstr "Détails"
 
 msgctxt "Text. Parent table: scenes, Parent Group: details"
 msgid "The location name will be used if the name is empty."
-msgstr ""
+msgstr "Le nom de l’emplacement sera utilisé si le nom est vide."
 
 msgctxt "Layout Group (scenario). Parent table: scenes, Parent Group: details"
 msgid "Scenario"
@@ -1357,5 +1362,4 @@ msgctxt ""
 "Custom Title. Parent table: scenes, Parent Group: details_lower, Parent "
 "Group: notebook"
 msgid "Actor's Name"
-msgstr "Nom de l'acteur"
-
+msgstr "Nom de l’acteur"
