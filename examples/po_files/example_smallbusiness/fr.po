@@ -1,15 +1,20 @@
+#
+# Charles Monzat <charles.monzat@free.fr>, 2022.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Small Business Example\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?\n"
-"product=glom&keywords=I18N+L10N&component=general\n"
-"PO-Revision-Date: 2013-10-31 12:25+0100\n"
-"Last-Translator: Someone <someone@someone.com>\n"
-"Language-Team:  <someone@someone.com>\n"
+"PO-Revision-Date: 2022-02-14 20:54+0100\n"
+"Last-Translator: Charles Monzat <charles.monzat@free.fr>\n"
+"Language-Team: GNOME French Team <gnomefr@traduc.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"product=glom&keywords=I18N+L10N&component=general\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Gtranslator 40.0\n"
 
 msgctxt "Database Title"
 msgid "Small Business Example"
@@ -105,7 +110,7 @@ msgstr "Adresse électronique"
 
 msgctxt "Field (website). Parent table: contacts"
 msgid "Web Site"
-msgstr "Site Web"
+msgstr "Site web"
 
 msgctxt "Field (tel_home). Parent table: contacts"
 msgid "Home Telephone"
@@ -133,107 +138,107 @@ msgstr "Par pays, par ville"
 
 msgctxt "Print Layout (contact_details). Parent table: contacts"
 msgid "Contact Details"
-msgstr ""
+msgstr "Détails du contact"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Contacts"
-msgstr ""
+msgstr "Contacts"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Overview"
-msgstr ""
+msgstr "Résumé"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Contact ID:"
-msgstr ""
+msgstr "ID du contact :"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Full Name:"
-msgstr ""
+msgstr "Nom complet :"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Name"
-msgstr ""
+msgstr "Nom"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Title:"
-msgstr ""
+msgstr "Titre :"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "First Name:"
-msgstr ""
+msgstr "Prénom :"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Middle Name:"
-msgstr ""
+msgstr "Nom intermédiaire :"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Last Name:"
-msgstr ""
+msgstr "Nom :"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Address"
-msgstr ""
+msgstr "Adresse"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Street:"
-msgstr ""
+msgstr "Rue :"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Town:"
-msgstr ""
+msgstr "Ville :"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "State:"
-msgstr ""
+msgstr "État :"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Postcode:"
-msgstr ""
+msgstr "Code postal :"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Country:"
-msgstr ""
+msgstr "Pays :"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Telephone"
-msgstr ""
+msgstr "Téléphone"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Work Telephone:"
-msgstr ""
+msgstr "Téléphone travail :"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Mobile Telephone:"
-msgstr ""
+msgstr "Téléphone portable :"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Home Telephone:"
-msgstr ""
+msgstr "Téléphone domicile :"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Fax:"
-msgstr ""
+msgstr "Fax :"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Date of Birth:"
-msgstr ""
+msgstr "Date de naissance :"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Picture:"
-msgstr ""
+msgstr "Image :"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Comments:"
-msgstr ""
+msgstr "Commentaires :"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Web Site:"
-msgstr ""
+msgstr "Site web :"
 
 msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
 msgid "Email Address:"
-msgstr ""
+msgstr "Adresse électronique :"
 
 msgctxt "Layout Group (overview). Parent table: contacts"
 msgid "Overview"
@@ -290,7 +295,7 @@ msgstr "Total TVA"
 
 msgctxt "Relationship (products). Parent table: invoice_lines"
 msgid "Products"
-msgstr ""
+msgstr "Produits"
 
 msgctxt "Table (invoices)"
 msgid "Invoices"
@@ -310,7 +315,7 @@ msgstr "Date"
 
 msgctxt "Field (comment). Parent table: invoices"
 msgid "Comment"
-msgstr "Commentaire "
+msgstr "Commentaire"
 
 msgctxt "Field (price_total). Parent table: invoices"
 msgid "Total Price"
@@ -359,11 +364,11 @@ msgstr "Commentaire"
 
 msgctxt "Field (description). Parent table: products"
 msgid "Description"
-msgstr "Description "
+msgstr "Description"
 
 msgctxt "Field (name). Parent table: products"
 msgid "Name"
-msgstr "Nom "
+msgstr "Nom"
 
 msgctxt "Field (price). Parent table: products"
 msgid "Price"
@@ -464,4 +469,3 @@ msgstr "Nom"
 msgctxt "Layout Group (address). Parent table: staff, Parent Group: details"
 msgid "Address"
 msgstr "Adresse"
-
