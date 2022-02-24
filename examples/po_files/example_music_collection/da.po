@@ -2,14 +2,15 @@
 # Copyright (C) 2017 glom's COPYRIGHT HOLDER
 # This file is distributed under the same license as the glom package.
 # Joe Hansen <joedalton2@yahoo.dk>, 2017.
+# scootergrisen, 2020.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: glom master\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?\n"
 "product=glom&keywords=I18N+L10N&component=general\n"
-"PO-Revision-Date: 2013-10-31 12:25+0100\n"
-"Last-Translator: Joe Hansen <joedalton2@yahoo.dk>\n"
+"PO-Revision-Date: 2020-11-11 00:00+0200\n"
+"Last-Translator: scootergrisen\n"
 "Language-Team: Danish <dansk@dansk-gruppen.dk>\n"
 "Language: da\n"
 "MIME-Version: 1.0\n"
@@ -47,7 +48,7 @@ msgstr "Udgiver-id"
 
 msgctxt "Field (year). Parent table: albums"
 msgid "Year"
-msgstr "??r"
+msgstr "År"
 
 msgctxt "Relationship (artist). Parent table: albums"
 msgid "Artist"

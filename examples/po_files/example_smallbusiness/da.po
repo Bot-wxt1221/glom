@@ -1,0 +1,472 @@
+# Danish translation for glom.
+# Copyright (C) 2020 glom's COPYRIGHT HOLDER
+# This file is distributed under the same license as the glom package.
+# scootergrisen, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: glom master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?\n"
+"product=glom&keywords=I18N+L10N&component=general\n"
+"PO-Revision-Date: 2020-11-11 00:00+0200\n"
+"Last-Translator: scootergrisen\n"
+"Language-Team: Danish <dansk@dansk-gruppen.dk>\n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "Database Title"
+msgid "Small Business Example"
+msgstr "Eksempel med lille firma"
+
+msgctxt "Table (contacts)"
+msgid "Contacts"
+msgstr "Kontakter"
+
+msgctxt "Field (contact_id). Parent table: contacts"
+msgid "Contact ID"
+msgstr "Kontakt-id"
+
+msgctxt "Field (name_first). Parent table: contacts"
+msgid "First Name"
+msgstr "Fornavn"
+
+msgctxt "Field (name_middle). Parent table: contacts"
+msgid "Middle Name"
+msgstr "Mellemnavn"
+
+msgctxt "Field (name_last). Parent table: contacts"
+msgid "Last Name"
+msgstr "Efternavn"
+
+msgctxt "Field (name_title). Parent table: contacts"
+msgid "Title"
+msgstr "Titel"
+
+msgctxt "Field Choice. Parent table: contacts, Parent Field: name_title"
+msgid "Mr"
+msgstr "Hr."
+
+msgctxt "Field Choice. Parent table: contacts, Parent Field: name_title"
+msgid "Mrs"
+msgstr "Fru"
+
+msgctxt "Field Choice. Parent table: contacts, Parent Field: name_title"
+msgid "Ms"
+msgstr "Fr."
+
+msgctxt "Field Choice. Parent table: contacts, Parent Field: name_title"
+msgid "Miss"
+msgstr "Frk."
+
+msgctxt "Field Choice. Parent table: contacts, Parent Field: name_title"
+msgid "Dr"
+msgstr "Dr."
+
+msgctxt "Field Choice. Parent table: contacts, Parent Field: name_title"
+msgid "Prof"
+msgstr "Prof."
+
+msgctxt "Field (address_street). Parent table: contacts"
+msgid "Street"
+msgstr "Gade"
+
+msgctxt "Field (address_town). Parent table: contacts"
+msgid "Town"
+msgstr "By"
+
+msgctxt "Field (address_state). Parent table: contacts"
+msgid "State"
+msgstr "Stat"
+
+msgctxt "Field (address_country). Parent table: contacts"
+msgid "Country"
+msgstr "Land"
+
+msgctxt "Field (address_postcode). Parent table: contacts"
+msgid "Postcode"
+msgstr "Postnummer"
+
+msgctxt "Field (date_of_birth). Parent table: contacts"
+msgid "Date of Birth"
+msgstr "Fødselsdato"
+
+msgctxt "Field (comments). Parent table: contacts"
+msgid "Comments"
+msgstr "Kommentarer"
+
+msgctxt "Field (name_full). Parent table: contacts"
+msgid "Full Name"
+msgstr "Fulde navn"
+
+msgctxt "Field (picture). Parent table: contacts"
+msgid "Picture"
+msgstr "Billede"
+
+msgctxt "Field (email). Parent table: contacts"
+msgid "Email Address"
+msgstr "E-mailadresse"
+
+msgctxt "Field (website). Parent table: contacts"
+msgid "Web Site"
+msgstr "Websted"
+
+msgctxt "Field (tel_home). Parent table: contacts"
+msgid "Home Telephone"
+msgstr "Telefon (hjemme)"
+
+msgctxt "Field (tel_work). Parent table: contacts"
+msgid "Work Telephone"
+msgstr "Telefon (arbejde)"
+
+msgctxt "Field (tel_mobile). Parent table: contacts"
+msgid "Mobile Telephone"
+msgstr "Telefon (mobil)"
+
+msgctxt "Field (tel_fax). Parent table: contacts"
+msgid "Fax"
+msgstr "Fax"
+
+msgctxt "Report (by_country). Parent table: contacts"
+msgid "Contacts By Country"
+msgstr "Kontakter efter land"
+
+msgctxt "Report (by_country_by_town). Parent table: contacts"
+msgid "By Country, By Town"
+msgstr "Efter land, efter by"
+
+msgctxt "Print Layout (contact_details). Parent table: contacts"
+msgid "Contact Details"
+msgstr "Kontaktdetaljer"
+
+msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
+msgid "Contacts"
+msgstr "Kontakter"
+
+msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
+msgid "Overview"
+msgstr "Overblik"
+
+msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
+msgid "Contact ID:"
+msgstr "Kontakt-id:"
+
+msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
+msgid "Full Name:"
+msgstr "Fulde navn:"
+
+msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
+msgid "Name"
+msgstr "Navn"
+
+msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
+msgid "Title:"
+msgstr "Titel:"
+
+msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
+msgid "First Name:"
+msgstr "Fornavn:"
+
+msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
+msgid "Middle Name:"
+msgstr "Mellemnavn:"
+
+msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
+msgid "Last Name:"
+msgstr "Efternavn:"
+
+msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
+msgid "Address"
+msgstr "Adresse"
+
+msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
+msgid "Street:"
+msgstr "Gade:"
+
+msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
+msgid "Town:"
+msgstr "By:"
+
+msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
+msgid "State:"
+msgstr "Stat:"
+
+msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
+msgid "Postcode:"
+msgstr "Postnummer:"
+
+msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
+msgid "Country:"
+msgstr "Land:"
+
+msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
+msgid "Telephone"
+msgstr "Telefon"
+
+msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
+msgid "Work Telephone:"
+msgstr "Telefon (arbejde):"
+
+msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
+msgid "Mobile Telephone:"
+msgstr "Telefon (mobil):"
+
+msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
+msgid "Home Telephone:"
+msgstr "Telefon (hjemme):"
+
+msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
+msgid "Fax:"
+msgstr "Fax:"
+
+msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
+msgid "Date of Birth:"
+msgstr "Fødselsdato:"
+
+msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
+msgid "Picture:"
+msgstr "Billede:"
+
+msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
+msgid "Comments:"
+msgstr "Kommentarer:"
+
+msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
+msgid "Web Site:"
+msgstr "Websted:"
+
+msgctxt "Text. Parent table: contacts, Print Layout: contact_details"
+msgid "Email Address:"
+msgstr "E-mailadresse:"
+
+msgctxt "Layout Group (overview). Parent table: contacts"
+msgid "Overview"
+msgstr "Overblik"
+
+msgctxt "Layout Group (name). Parent table: contacts, Parent Group: details"
+msgid "Name"
+msgstr "Navn"
+
+msgctxt "Layout Group (address). Parent table: contacts, Parent Group: details"
+msgid "Address"
+msgstr "Adresse"
+
+msgctxt ""
+"Layout Group (telephone). Parent table: contacts, Parent Group: details"
+msgid "Telephone"
+msgstr "Telefon"
+
+msgctxt "Button. Parent table: contacts, Parent Group: details"
+msgid "Test Button"
+msgstr "Testknap"
+
+msgctxt "Field (product_name). Parent table: invoice_lines"
+msgid "Product Name"
+msgstr "Produktnavn"
+
+msgctxt "Field (product_id). Parent table: invoice_lines"
+msgid "Product Id"
+msgstr "Produkt-id"
+
+msgctxt "Field (product_price). Parent table: invoice_lines"
+msgid "Product Price"
+msgstr "Produktpris"
+
+msgctxt "Field (invoice_id). Parent table: invoice_lines"
+msgid "Invoice ID"
+msgstr "Faktura-id"
+
+msgctxt "Field (count). Parent table: invoice_lines"
+msgid "Number Of"
+msgstr "Antal"
+
+msgctxt "Field (total_price). Parent table: invoice_lines"
+msgid "Total Price"
+msgstr "Samlet pris"
+
+msgctxt "Field (vat_percentage). Parent table: invoice_lines"
+msgid "VAT Percentage"
+msgstr "Momssats"
+
+msgctxt "Field (total_price_vat). Parent table: invoice_lines"
+msgid "Total VAT"
+msgstr "Samlet moms"
+
+msgctxt "Relationship (products). Parent table: invoice_lines"
+msgid "Products"
+msgstr "Produkter"
+
+msgctxt "Table (invoices)"
+msgid "Invoices"
+msgstr "Fakturaer"
+
+msgctxt "Field (invoice_id). Parent table: invoices"
+msgid "Invoice ID"
+msgstr "Faktura-id"
+
+msgctxt "Field (contact_id). Parent table: invoices"
+msgid "Contact ID"
+msgstr "Kontakt-id"
+
+msgctxt "Field (date). Parent table: invoices"
+msgid "Date"
+msgstr "Dato"
+
+msgctxt "Field (comment). Parent table: invoices"
+msgid "Comment"
+msgstr "Kommentar"
+
+msgctxt "Field (price_total). Parent table: invoices"
+msgid "Total Price"
+msgstr "Samlet pris"
+
+msgctxt "Field (vat_total). Parent table: invoices"
+msgid "Total VAT"
+msgstr "Samlet moms"
+
+msgctxt "Field (price_total_with_vat). Parent table: invoices"
+msgid "Total Price With Vat"
+msgstr "Samlet pris med moms"
+
+msgctxt "Relationship (invoice_lines). Parent table: invoices"
+msgid "Invoice Lines"
+msgstr "Fakturalinjer"
+
+msgctxt "Relationship (contacts). Parent table: invoices"
+msgid "Contacts"
+msgstr "Kontakter"
+
+msgctxt "Report (by_customer). Parent table: invoices"
+msgid "By Customer"
+msgstr "Efter kunde"
+
+msgctxt "Layout Group (overview). Parent table: invoices"
+msgid "Overview"
+msgstr "Overblik"
+
+msgctxt ""
+"Layout Group (customer). Parent table: invoices, Parent Group: details"
+msgid "Customer"
+msgstr "Kunde"
+
+msgctxt "Table (products)"
+msgid "Products"
+msgstr "Produkter"
+
+msgctxt "Field (product_id). Parent table: products"
+msgid "Product ID"
+msgstr "Produkt-id"
+
+msgctxt "Field (comment). Parent table: products"
+msgid "Comment"
+msgstr "Kommentar"
+
+msgctxt "Field (description). Parent table: products"
+msgid "Description"
+msgstr "Beskrivelse"
+
+msgctxt "Field (name). Parent table: products"
+msgid "Name"
+msgstr "Navn"
+
+msgctxt "Field (price). Parent table: products"
+msgid "Price"
+msgstr "Pris"
+
+msgctxt "Field (vat_percent). Parent table: products"
+msgid "Vat Percent"
+msgstr "Momssats"
+
+msgctxt "Layout Group (overview). Parent table: products"
+msgid "Overview"
+msgstr "Overblik"
+
+msgctxt "Layout Group (details). Parent table: products"
+msgid "Details"
+msgstr "Detaljer"
+
+msgctxt "Table (staff)"
+msgid "Staff"
+msgstr "Ansatte"
+
+msgctxt "Field (staff_id). Parent table: staff"
+msgid "Staff ID"
+msgstr "Ansatte-id"
+
+msgctxt "Field (name_title). Parent table: staff"
+msgid "Title"
+msgstr "Titel"
+
+msgctxt "Field Choice. Parent table: staff, Parent Field: name_title"
+msgid "Mr"
+msgstr "Hr."
+
+msgctxt "Field Choice. Parent table: staff, Parent Field: name_title"
+msgid "Mrs"
+msgstr "Fru"
+
+msgctxt "Field Choice. Parent table: staff, Parent Field: name_title"
+msgid "Miss"
+msgstr "Frk."
+
+msgctxt "Field Choice. Parent table: staff, Parent Field: name_title"
+msgid "Dr"
+msgstr "Dr."
+
+msgctxt "Field Choice. Parent table: staff, Parent Field: name_title"
+msgid "Prof"
+msgstr "Prof."
+
+msgctxt "Field (name_first). Parent table: staff"
+msgid "First Name"
+msgstr "Fornavn"
+
+msgctxt "Field (name_second). Parent table: staff"
+msgid "Second Name"
+msgstr "Mellemnavn"
+
+msgctxt "Field (name_last). Parent table: staff"
+msgid "Last Name"
+msgstr "Efternavn"
+
+msgctxt "Field (address_street). Parent table: staff"
+msgid "Street"
+msgstr "Gade"
+
+msgctxt "Field (address_town). Parent table: staff"
+msgid "Town"
+msgstr "By"
+
+msgctxt "Field (address_state). Parent table: staff"
+msgid "State"
+msgstr "Stat"
+
+msgctxt "Field (address_country). Parent table: staff"
+msgid "Country"
+msgstr "Land"
+
+msgctxt "Field (address_postcode). Parent table: staff"
+msgid "Postcode"
+msgstr "Postnummer"
+
+msgctxt "Field (date_of_birth). Parent table: staff"
+msgid "Date Of Birth"
+msgstr "Fødselsdato"
+
+msgctxt "Field (position). Parent table: staff"
+msgid "Position"
+msgstr "Job"
+
+msgctxt "Layout Group (overview). Parent table: staff"
+msgid "Overview"
+msgstr "Overblik"
+
+msgctxt "Layout Group (name). Parent table: staff, Parent Group: details"
+msgid "Name"
+msgstr "Navn"
+
+msgctxt "Layout Group (address). Parent table: staff, Parent Group: details"
+msgid "Address"
+msgstr "Adresse"
