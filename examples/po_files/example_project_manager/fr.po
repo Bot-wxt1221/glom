@@ -1,15 +1,19 @@
+#
+# Someone <someone@someone.com>, 2022.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Project Manager Example\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?\n"
-"product=glom&keywords=I18N+L10N&component=general\n"
-"PO-Revision-Date: 2013-10-31 12:25+0100\n"
+"PO-Revision-Date: 2022-02-14 20:44+0100\n"
 "Last-Translator: Someone <someone@someone.com>\n"
 "Language-Team:  <someone@someone.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"product=glom&keywords=I18N+L10N&component=general\n"
+"X-Generator: Gtranslator 40.0\n"
 
 msgctxt "Database Title"
 msgid "Project Manager Example"
@@ -105,7 +109,7 @@ msgstr "Adresse électronique"
 
 msgctxt "Field (website). Parent table: contacts"
 msgid "Web Site"
-msgstr "Site Web"
+msgstr "Site web"
 
 msgctxt "Field (tel_home). Parent table: contacts"
 msgid "Home Telephone"
@@ -125,7 +129,7 @@ msgstr "Fax"
 
 msgctxt "Relationship (team_members). Parent table: contacts"
 msgid "Team Membership"
-msgstr "Membres de l'équipe"
+msgstr "Membres de l’équipe"
 
 msgctxt "Report (by_country). Parent table: contacts"
 msgid "Contacts By Country"
@@ -200,7 +204,7 @@ msgstr "Équipes du projet"
 
 msgctxt "Field (project_team_id). Parent table: project_teams"
 msgid "Project Team ID"
-msgstr "ID de l'équipe du projet"
+msgstr "ID de l’équipe du projet"
 
 msgctxt "Field (comments). Parent table: project_teams"
 msgid "Comments"
@@ -208,7 +212,7 @@ msgstr "Commentaires"
 
 msgctxt "Field (team_id). Parent table: project_teams"
 msgid "Team ID"
-msgstr "ID de l'équipe"
+msgstr "ID de l’équipe"
 
 msgctxt "Field (project_id). Parent table: project_teams"
 msgid "Project ID"
@@ -232,7 +236,7 @@ msgstr "Détails"
 
 msgctxt "Custom Title. Parent table: project_teams"
 msgid "Team Name"
-msgstr "Nom de l'équipe"
+msgstr "Nom de l’équipe"
 
 msgctxt "Custom Title. Parent table: project_teams"
 msgid "Project Name"
@@ -240,7 +244,7 @@ msgstr "Nom du projet"
 
 msgctxt "Table (team_members)"
 msgid "Team Members"
-msgstr "Membres de l'équipe"
+msgstr "Membres de l’équipe"
 
 msgctxt "Field (team_members_id). Parent table: team_members"
 msgid "team_members ID"
@@ -260,7 +264,7 @@ msgstr "ID du contact"
 
 msgctxt "Field (team_id). Parent table: team_members"
 msgid "Team ID"
-msgstr "ID de l'équipe"
+msgstr "ID de l’équipe"
 
 msgctxt "Field (role). Parent table: team_members"
 msgid "Role"
@@ -288,7 +292,7 @@ msgstr "Équipes"
 
 msgctxt "Field (team_id). Parent table: teams"
 msgid "Team ID"
-msgstr "ID de l'équipe"
+msgstr "ID de l’équipe"
 
 msgctxt "Field (description). Parent table: teams"
 msgid "Description"
@@ -317,4 +321,3 @@ msgstr "Résumé"
 msgctxt "Layout Group (details). Parent table: teams"
 msgid "Details"
 msgstr "Détails"
-
