@@ -1,15 +1,19 @@
+#
+# Someone <someone@someone.com>, 2022.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Lesson Planner\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?\n"
-"product=glom&keywords=I18N+L10N&component=general\n"
-"PO-Revision-Date: 2013-10-31 12:25+0100\n"
+"PO-Revision-Date: 2022-02-14 20:41+0100\n"
 "Last-Translator: Someone <someone@someone.com>\n"
 "Language-Team:  <someone@someone.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"product=glom&keywords=I18N+L10N&component=general\n"
+"X-Generator: Gtranslator 40.0\n"
 
 msgctxt "Database Title"
 msgid "Lesson Planner"
@@ -77,7 +81,7 @@ msgstr "Date"
 
 msgctxt "Field (time_start). Parent table: lessons"
 msgid "Start Time"
-msgstr "Heure de début "
+msgstr "Heure de début"
 
 msgctxt "Field (hours). Parent table: lessons"
 msgid "Hours"
@@ -285,7 +289,7 @@ msgstr "Adresse électronique"
 
 msgctxt "Field (website). Parent table: teachers"
 msgid "Web Site"
-msgstr "Site Web"
+msgstr "Site web"
 
 msgctxt "Field (tel_home). Parent table: teachers"
 msgid "Home Telephone"
@@ -350,4 +354,3 @@ msgstr "Autre"
 msgctxt "Custom Title. Parent table: teachers, Parent Group: details"
 msgid "Subject Name"
 msgstr "Nom du sujet"
-
