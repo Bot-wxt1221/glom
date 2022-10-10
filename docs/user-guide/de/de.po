@@ -1,28 +1,30 @@
 # German translation of the Glom manual.
 # Mario Blättermann <mario.blaettermann@gmail.com>, 2008, 2010, 2016, 2018.
 # Christian Kirbach <Christian.Kirbach@googlemail.com>, 2010.
+# Jürgen Benvenuti <gastornis@posteo.org>, 2022.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: glom master\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-11-02 21:58+0000\n"
-"PO-Revision-Date: 2018-02-27 21:52+0100\n"
-"Last-Translator: Mario Blättermann <mario.blaettermann@gmail.com>\n"
+"POT-Creation-Date: 2022-09-17 08:24+0000\n"
+"PO-Revision-Date: 2022-10-08 13:54+0200\n"
+"Last-Translator: Jürgen Benvenuti <gastornis@posteo.org>\n"
 "Language-Team: Deutsch <gnome-de@gnome.org>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 2.0.6\n"
+"X-Generator: Poedit 3.1.1\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
 msgid "translator-credits"
 msgstr ""
 "Mario Blättermann <mario.blaettermann@gmail.com>, 2008, 2010, 2016\n"
-"Christian Kirbach <Christian.Kirbach@googlemail.com>, 2010"
+"Christian Kirbach <Christian.Kirbach@googlemail.com>, 2010\n"
+"Jürgen Benvenuti <gastornis@posteo.org>, 2022"
 
 #. (itstool) path: articleinfo/title
 #: C/index.docbook:28
@@ -43,121 +45,6 @@ msgstr "<year>2004</year> <holder>Murray Cumming</holder>"
 #: C/index.docbook:47
 msgid "Glom Development Team"
 msgstr "Glom Entwickler-Team"
-
-#. (itstool) path: legalnotice/para
-#: C/index.docbook:2
-msgid ""
-"Permission is granted to copy, distribute and/or modify this document under "
-"the terms of the GNU Free Documentation License (GFDL), Version 1.1 or any "
-"later version published by the Free Software Foundation with no Invariant "
-"Sections, no Front-Cover Texts, and no Back-Cover Texts. You can find a copy "
-"of the GFDL at this <ulink type=\"help\" url=\"ghelp:fdl\">link</ulink> or "
-"in the file COPYING-DOCS distributed with this manual."
-msgstr ""
-"Das vorliegende Dokument kann gemäß den Bedingungen der GNU Free "
-"Documentation License (GFDL), Version 1.1 oder jeder späteren, von der Free "
-"Software Foundation veröffentlichten Version ohne unveränderbare Abschnitte "
-"sowie ohne Texte auf dem vorderen und hinteren Buchdeckel kopiert, verteilt "
-"und/oder modifiziert werden. Eine Kopie der GFDL finden Sie unter diesem "
-"<ulink type=\"help\" url=\"ghelp:fdl\">Link</ulink> oder in der mit diesem "
-"Handbuch gelieferten Datei COPYING-DOCS."
-
-#. (itstool) path: legalnotice/para
-#: C/index.docbook:12 C/legal.xml:12
-msgid ""
-"This manual is part of a collection of GNOME manuals distributed under the "
-"GFDL. If you want to distribute this manual separately from the collection, "
-"you can do so by adding a copy of the license to the manual, as described in "
-"section 6 of the license."
-msgstr ""
-"Dieses Handbuch ist Teil einer Sammlung von GNOME-Handbüchern, die unter der "
-"GFDL veröffentlicht werden. Wenn Sie dieses Handbuch getrennt von der "
-"Sammlung weiterverbreiten möchten, können Sie das tun, indem Sie eine Kopie "
-"der Lizenz zum Handbuch hinzufügen, wie es in Abschnitt 6 der Lizenz "
-"beschrieben ist."
-
-#. (itstool) path: legalnotice/para
-#: C/index.docbook:19 C/legal.xml:19
-msgid ""
-"Many of the names used by companies to distinguish their products and "
-"services are claimed as trademarks. Where those names appear in any GNOME "
-"documentation, and the members of the GNOME Documentation Project are made "
-"aware of those trademarks, then the names are in capital letters or initial "
-"capital letters."
-msgstr ""
-"Viele der Namen, die von Unternehmen verwendet werden, um ihre Produkte und "
-"Dienstleistungen von anderen zu unterscheiden, sind eingetragene "
-"Warenzeichen. An den Stellen, an denen diese Namen in einer GNOME-"
-"Dokumentation erscheinen, werden die Namen in Großbuchstaben oder mit einem "
-"großen Anfangsbuchstaben geschrieben, wenn das GNOME-Dokumentationsprojekt "
-"auf diese Warenzeichen hingewiesen wird."
-
-#. (itstool) path: listitem/para
-#: C/index.docbook:35 C/legal.xml:35
-msgid ""
-"DOCUMENT IS PROVIDED ON AN \"AS IS\" BASIS, WITHOUT WARRANTY OF ANY KIND, "
-"EITHER EXPRESSED OR IMPLIED, INCLUDING, WITHOUT LIMITATION, WARRANTIES THAT "
-"THE DOCUMENT OR MODIFIED VERSION OF THE DOCUMENT IS FREE OF DEFECTS "
-"MERCHANTABLE, FIT FOR A PARTICULAR PURPOSE OR NON-INFRINGING. THE ENTIRE "
-"RISK AS TO THE QUALITY, ACCURACY, AND PERFORMANCE OF THE DOCUMENT OR "
-"MODIFIED VERSION OF THE DOCUMENT IS WITH YOU. SHOULD ANY DOCUMENT OR "
-"MODIFIED VERSION PROVE DEFECTIVE IN ANY RESPECT, YOU (NOT THE INITIAL "
-"WRITER, AUTHOR OR ANY CONTRIBUTOR) ASSUME THE COST OF ANY NECESSARY "
-"SERVICING, REPAIR OR CORRECTION. THIS DISCLAIMER OF WARRANTY CONSTITUTES AN "
-"ESSENTIAL PART OF THIS LICENSE. NO USE OF ANY DOCUMENT OR MODIFIED VERSION "
-"OF THE DOCUMENT IS AUTHORIZED HEREUNDER EXCEPT UNDER THIS DISCLAIMER; AND"
-msgstr ""
-"DIESES DOKUMENT WIRD »WIE VORLIEGEND« GELIEFERT, OHNE GARANTIEN IRGENDEINER "
-"ART, SOWOHL AUSDRÜCKLICH GENANNTE ALS AUCH ANGEDEUTETE. DIES BEZIEHT SICH "
-"AUCH OHNE EINSCHRÄNKUNG AUF GARANTIEN, DASS DIESES DOKUMENT ODER VERÄNDERTE "
-"FASSUNGEN DIESES DOKUMENTS FREI VON HANDELSDEFEKTEN, FÜR EINEN BESTIMMTEN "
-"ZWECK GEEIGNET IST ODER DASS ES KEINE RECHTE DRITTER VERLETZT. DAS VOLLE "
-"RISIKO WAS QUALITÄT, GENAUIGKEIT UND LEISTUNG DES DOKUMENTS ODER VERÄNDERTE "
-"FASSUNGEN DES DOKUMENTS LIEGT BEI IHNEN. SOLLTE EIN DOKUMENT ODER EINE "
-"VERÄNDERTE FASSUNG DAVON FEHLER IRGENDEINER ART BEINHALTEN, TRAGEN SIE "
-"(NICHT DER URSPRUNGSAUTOR, DER AUTOR ODER EIN MITWIRKENDER) DIE KOSTEN FÜR "
-"NOTWENDIGE DIENSTLEISTUNGEN, REPARATUREN ODER FEHLERKORREKTUREN. DIESER "
-"HAFTUNGSAUSSCHLUSS IST EIN ESSENZIELLER TEIL DIESER LIZENZ. DIE VERWENDUNG "
-"EINES DOKUMENTS ODER EINER VERÄNDERTEN VERSION DES DOKUMENTS IST NICHT "
-"GESTATTET AUßER UNTER BEACHTUNG DIESES HAFTUNGSAUSSCHLUSSES UND"
-
-#. (itstool) path: listitem/para
-#: C/index.docbook:55 C/legal.xml:55
-msgid ""
-"UNDER NO CIRCUMSTANCES AND UNDER NO LEGAL THEORY, WHETHER IN TORT (INCLUDING "
-"NEGLIGENCE), CONTRACT, OR OTHERWISE, SHALL THE AUTHOR, INITIAL WRITER, ANY "
-"CONTRIBUTOR, OR ANY DISTRIBUTOR OF THE DOCUMENT OR MODIFIED VERSION OF THE "
-"DOCUMENT, OR ANY SUPPLIER OF ANY OF SUCH PARTIES, BE LIABLE TO ANY PERSON "
-"FOR ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES OF "
-"ANY CHARACTER INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF GOODWILL, "
-"WORK STOPPAGE, COMPUTER FAILURE OR MALFUNCTION, OR ANY AND ALL OTHER DAMAGES "
-"OR LOSSES ARISING OUT OF OR RELATING TO USE OF THE DOCUMENT AND MODIFIED "
-"VERSIONS OF THE DOCUMENT, EVEN IF SUCH PARTY SHALL HAVE BEEN INFORMED OF THE "
-"POSSIBILITY OF SUCH DAMAGES."
-msgstr ""
-"UNTER KEINEN UMSTÄNDEN UND AUF BASIS KEINER RECHTSGRUNDLAGE, EGAL OB DURCH "
-"UNERLAUBTEN HANDLUNGEN (EINSCHLIEßLICH FAHRLÄSSIGKEIT), VERTRAG ODER "
-"ANDERWEITIG KANN DER AUTOR, URSPRUNGSAUTOR, EIN MITWIRKENDER ODER EIN "
-"VERTRIEBSPARTNER DIESES DOKUMENTS ODER EINER VERÄNDERTEN FASSUNG DES "
-"DOKUMENTS ODER EIN ZULIEFERER EINER DIESER PARTEIEN, HAFTBAR GEMACHT WERDEN "
-"FÜR DIREKTE, INDIREKTE, SPEZIELLE, VERSEHENTLICHE ODER FOLGESCHÄDEN "
-"JEGLICHER ART, EINSCHLIEßLICH UND OHNE EINSCHRÄNKUNGEN SCHÄDEN DURCH VERLUST "
-"VON KULANZ, ARBEITSAUSFALL, COMPUTERVERSAGEN ODER COMPUTERFEHLFUNKTIONEN "
-"ODER ALLE ANDEREN SCHÄDEN ODER VERLUSTE, DIE SICH AUS ODER IN VERBINDUNG MIT "
-"DER VERWENDUNG DES DOKUMENTS UND VERÄNDERTER FASSUNGEN DES DOKUMENTS "
-"ERGEBEN, AUCH WENN DIE OBEN GENANNTEN PARTEIEN ÜBER DIE MÖGLICHKEIT SOLCHER "
-"SCHÄDEN INFORMIERT WAREN."
-
-#. (itstool) path: legalnotice/para
-#: C/index.docbook:28 C/legal.xml:28
-msgid ""
-"DOCUMENT AND MODIFIED VERSIONS OF THE DOCUMENT ARE PROVIDED UNDER THE TERMS "
-"OF THE GNU FREE DOCUMENTATION LICENSE WITH THE FURTHER UNDERSTANDING THAT: "
-"<_:orderedlist-1/>"
-msgstr ""
-"DAS DOKUMENT UND VERÄNDERTE FASSUNGEN DES DOKUMENTS WERDEN UNTER DEN "
-"BEDINGUNGEN DER GNU FREE DOCUMENTATION LICENSE ZUR VERFÜGUNG GESTELLT MIT "
-"DEM WEITERGEHENDEN VERSTÄNDNIS, DASS: <_:orderedlist-1/>"
 
 #. (itstool) path: authorgroup/author
 #: C/index.docbook:56
@@ -195,68 +82,64 @@ msgid "Feedback"
 msgstr "Rückmeldungen"
 
 #. (itstool) path: legalnotice/para
-#: C/index.docbook:109
+#. (itstool) path: sect1/para
+#: C/index.docbook:109 C/index.docbook:724
 msgid ""
 "To report a problem or make a suggestion regarding Glom or this manual, you "
-"may submit a bug report to the <ulink url=\"http://bugzilla.gnome.org\" type="
-"\"http\">GNOME Bugzilla </ulink>, under the Glom product. Please search "
-"bugzilla before submitting your bug to ensure that yours hasn't already been "
-"reported."
+"may submit a bug report in the <ulink url=\"https://gitlab.gnome.org/GNOME/"
+"glom/issues\">GNOME issue tracker</ulink>."
 msgstr ""
-"Um einen Fehler zu melden oder einen Vorschlag zu <application>Glom</"
-"application> oder zu diesem Handbuch zu machen, können Sie das <ulink url="
-"\"http://bugzilla.gnome.org\" type=\"http\">Fehlererfassungssystem von "
-"GNOME</ulink> verwenden, in welchem Sie als Produkt <application>Glom</"
-"application> auswählen. Bitte durchsuchen Sie zunächst die Fehlerdatenbank, "
-"um sicher zu gehen, dass über Ihr Anliegen nicht bereits berichtet wurde."
+"Um ein Problem zu melden oder einen Vorschlag zu Glom oder zu diesem "
+"Handbuch zu machen, benutzen Sie bitte <ulink url=\"https://gitlab.gnome.org/"
+"GNOME/glom/issues\">das Fehlererfassungssystem von GNOME</ulink>."
 
 #. (itstool) path: abstract/para
-#: C/index.docbook:119
+#: C/index.docbook:118
 msgid "User manual for Glom."
-msgstr "User manual for Glom."
+msgstr "Benutzerhandbuch für Glom."
 
 #. (itstool) path: article/indexterm
-#: C/index.docbook:123
+#: C/index.docbook:122
 msgid "<primary>MY-GNOME-APP</primary>"
 msgstr "<primary>MY-GNOME-APP</primary>"
 
 #. (itstool) path: article/indexterm
-#: C/index.docbook:126
+#: C/index.docbook:125
 msgid "<primary>mygnomeapp</primary>"
 msgstr "<primary>mygnomeapp</primary>"
 
 #. (itstool) path: sect1/title
-#: C/index.docbook:135
+#: C/index.docbook:134
 msgid "Introduction"
 msgstr "Einführung"
 
 #. (itstool) path: sect1/para
-#: C/index.docbook:136
+#: C/index.docbook:135
 msgid "Glom allows you to design and use database systems."
 msgstr "Glom erlaubt Ihnen das Erstellen und Benutzen von Datenbanksystemen."
 
 #. (itstool) path: sect1/title
-#: C/index.docbook:150
+#: C/index.docbook:149
 msgid "Getting Started"
 msgstr "Erste Schritte"
 
 #. (itstool) path: sect2/title
-#: C/index.docbook:153
+#: C/index.docbook:152
 msgid "Starting Glom"
 msgstr "Glom starten"
 
 #. (itstool) path: sect2/para
-#: C/index.docbook:154
+#: C/index.docbook:153
 msgid "You can start <application>Glom</application> in the following ways:"
 msgstr "Sie können <application>Glom</application> auf folgende Arten starten:"
 
 #. (itstool) path: varlistentry/term
-#: C/index.docbook:158
+#: C/index.docbook:157
 msgid "<guimenu>Applications</guimenu> menu"
 msgstr "Menü <guimenu>Anwendungen</guimenu>"
 
 #. (itstool) path: listitem/para
-#: C/index.docbook:160
+#: C/index.docbook:159
 msgid ""
 "Choose <menuchoice> <guisubmenu>Office</guisubmenu> <guimenuitem>Glom</"
 "guimenuitem> </menuchoice>."
@@ -265,12 +148,12 @@ msgstr ""
 "guisubmenu><guimenuitem>Glom</guimenuitem></menuchoice>."
 
 #. (itstool) path: sect2/title
-#: C/index.docbook:171
+#: C/index.docbook:170
 msgid "When You Start Glom"
 msgstr "Beim Start von <application>Glom</application>"
 
 #. (itstool) path: sect2/para
-#: C/index.docbook:172
+#: C/index.docbook:171
 msgid ""
 "When you start <application>Glom</application>, the following window is "
 "displayed. You may open an existing Glom file or create a new one, possibly "
@@ -282,7 +165,7 @@ msgstr ""
 "basiert."
 
 #. (itstool) path: figure/title
-#: C/index.docbook:177
+#: C/index.docbook:176
 msgid "Glom Start Up Window, Opening an Existing File"
 msgstr "Glom-Startfenster, Öffnen einer bestehenden Datei"
 
@@ -291,14 +174,14 @@ msgstr "Glom-Startfenster, Öffnen einer bestehenden Datei"
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/index.docbook:181
+#: C/index.docbook:180
 msgctxt "_"
 msgid ""
 "external ref='figures/start_open.png' md5='adac27f11f2324c3da2349f72d554994'"
 msgstr "ok"
 
 #. (itstool) path: screenshot/mediaobject
-#: C/index.docbook:179
+#: C/index.docbook:178
 msgid ""
 "<imageobject><imagedata fileref=\"figures/start_open.png\" format=\"PNG\"/> "
 "</imageobject> <textobject> <phrase>Shows Glom main window used to open an "
@@ -309,7 +192,7 @@ msgstr ""
 "Öffnen einer existierenden Glom-Datei.</phrase> </textobject>"
 
 #. (itstool) path: figure/title
-#: C/index.docbook:191
+#: C/index.docbook:190
 msgid "Glom Start Up Window, Creating a New File"
 msgstr "Glom-Startfenster, Erstellen einer neuen Datei"
 
@@ -318,7 +201,7 @@ msgstr "Glom-Startfenster, Erstellen einer neuen Datei"
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/index.docbook:195
+#: C/index.docbook:194
 msgctxt "_"
 msgid ""
 "external ref='figures/start_create.png' "
@@ -326,7 +209,7 @@ msgid ""
 msgstr "ok"
 
 #. (itstool) path: screenshot/mediaobject
-#: C/index.docbook:193
+#: C/index.docbook:192
 msgid ""
 "<imageobject><imagedata fileref=\"figures/start_create.png\" format=\"PNG\"/"
 "> </imageobject> <textobject> <phrase>Shows Glom main window used to create "
@@ -337,12 +220,12 @@ msgstr ""
 "Erstellen einer neuen Glom-Datei.</phrase> </textobject>"
 
 #. (itstool) path: sect1/title
-#: C/index.docbook:212
+#: C/index.docbook:211
 msgid "Using Glom as an Operator"
 msgstr "Glom als Operator verwenden"
 
 #. (itstool) path: sect1/para
-#: C/index.docbook:213
+#: C/index.docbook:212
 msgid ""
 "To open an existing Glom document, either open that document from the File "
 "Manager, or choose Glom from the Applications menu, and then choose the "
@@ -358,7 +241,7 @@ msgstr ""
 "Systemverwalter zur Verfügung."
 
 #. (itstool) path: sect1/para
-#: C/index.docbook:215
+#: C/index.docbook:214
 msgid ""
 "When you open an existing document, Glom will be in <literal>Operator</"
 "literal> <literal>user level</literal>. This user level allows you to find "
@@ -371,12 +254,12 @@ msgstr ""
 "an der grundlegenden Struktur der Datenbank."
 
 #. (itstool) path: sect2/title
-#: C/index.docbook:218
+#: C/index.docbook:217
 msgid "Navigation"
 msgstr "Navigation"
 
 #. (itstool) path: sect2/para
-#: C/index.docbook:219
+#: C/index.docbook:218
 msgid ""
 "Each database has several tables. To look at a different table, choose "
 "<literal>Tables</literal> from the <literal>Navigate</literal> menu. Then "
@@ -390,7 +273,7 @@ msgstr ""
 "<guibutton>Öffnen</guibutton>."
 
 #. (itstool) path: figure/title
-#: C/index.docbook:222
+#: C/index.docbook:221
 msgid "Navigating to a Table"
 msgstr "Navigieren zu einer Tabelle"
 
@@ -399,14 +282,14 @@ msgstr "Navigieren zu einer Tabelle"
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/index.docbook:226
+#: C/index.docbook:225
 msgctxt "_"
 msgid ""
 "external ref='figures/glom_tables.png' md5='a61ac5516314b38c6c7a3f3fd534427f'"
 msgstr "ok"
 
 #. (itstool) path: screenshot/mediaobject
-#: C/index.docbook:224
+#: C/index.docbook:223
 msgid ""
 "<imageobject><imagedata fileref=\"figures/glom_tables.png\" format=\"PNG\"/> "
 "</imageobject> <textobject> <phrase>Navigating to a Table.</phrase> </"
@@ -417,12 +300,12 @@ msgstr ""
 "textobject>"
 
 #. (itstool) path: sect2/title
-#: C/index.docbook:238
+#: C/index.docbook:237
 msgid "Viewing and Entering Data"
 msgstr "Betrachten und Eingeben von Daten"
 
 #. (itstool) path: sect2/para
-#: C/index.docbook:239
+#: C/index.docbook:238
 msgid ""
 "When in <literal>Data Mode</literal>, you can view or enter information in "
 "either the <literal>List</literal> or <literal>Details</literal> view."
@@ -433,12 +316,12 @@ msgstr ""
 
 #. (itstool) path: sect3/title
 #. (itstool) path: figure/title
-#: C/index.docbook:242 C/index.docbook:248
+#: C/index.docbook:241 C/index.docbook:247
 msgid "The List View"
 msgstr "Die Listenansicht"
 
 #. (itstool) path: sect3/para
-#: C/index.docbook:243
+#: C/index.docbook:242
 msgid ""
 "The List view shows many records at once and usually shows only the most "
 "important fields."
@@ -447,7 +330,7 @@ msgstr ""
 "üblicherweise nur die wichtigsten Felder an."
 
 #. (itstool) path: sect3/para
-#: C/index.docbook:244 C/index.docbook:267
+#: C/index.docbook:243 C/index.docbook:266
 msgid ""
 "When you enter data into a field it will be saved into the database "
 "immediately after you finish editing the field. If it is a date or time "
@@ -459,7 +342,7 @@ msgstr ""
 "Daten für Sie überprüft."
 
 #. (itstool) path: sect3/para
-#: C/index.docbook:245
+#: C/index.docbook:244
 msgid ""
 "To create a new record just click the <literal>New</literal> button, or "
 "start typing into a field in the last empty row. A new record row will be "
@@ -475,7 +358,7 @@ msgstr ""
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/index.docbook:252
+#: C/index.docbook:251
 msgctxt "_"
 msgid ""
 "external ref='figures/glom_data_list.png' "
@@ -483,18 +366,18 @@ msgid ""
 msgstr "ok"
 
 #. (itstool) path: screenshot/mediaobject
-#: C/index.docbook:250
+#: C/index.docbook:249
 msgid ""
-"<imageobject><imagedata fileref=\"figures/glom_data_list.png\" format=\"PNG"
-"\"/> </imageobject> <textobject> <phrase>The List View.</phrase> </"
-"textobject>"
+"<imageobject><imagedata fileref=\"figures/glom_data_list.png\" "
+"format=\"PNG\"/> </imageobject> <textobject> <phrase>The List View.</phrase> "
+"</textobject>"
 msgstr ""
-"<imageobject><imagedata fileref=\"figures/glom_data_list.png\" format=\"PNG"
-"\"/> </imageobject> <textobject> <phrase>Die Listenansicht.</phrase> </"
-"textobject>"
+"<imageobject><imagedata fileref=\"figures/glom_data_list.png\" "
+"format=\"PNG\"/> </imageobject> <textobject> <phrase>Die Listenansicht.</"
+"phrase> </textobject>"
 
 #. (itstool) path: sect3/para
-#: C/index.docbook:261
+#: C/index.docbook:260
 msgid ""
 "To sort the records just click on a column header. For instance, you could "
 "might click on a date column to list invoices in order of their date, and "
@@ -507,12 +390,12 @@ msgstr ""
 
 #. (itstool) path: sect3/title
 #. (itstool) path: figure/title
-#: C/index.docbook:265 C/index.docbook:271
+#: C/index.docbook:264 C/index.docbook:270
 msgid "The Details View"
 msgstr "Die Detailansicht"
 
 #. (itstool) path: sect3/para
-#: C/index.docbook:266
+#: C/index.docbook:265
 msgid ""
 "The details view shows only one record and usually shows all the fields "
 "arranged suitably."
@@ -521,7 +404,7 @@ msgstr ""
 "sinnvoller Anordnung dar."
 
 #. (itstool) path: sect3/para
-#: C/index.docbook:268
+#: C/index.docbook:267
 msgid ""
 "To create a new record just click the <literal>New</literal> button. A new "
 "record will be created with blank fields for you to fill in."
@@ -535,7 +418,7 @@ msgstr ""
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/index.docbook:275
+#: C/index.docbook:274
 msgctxt "_"
 msgid ""
 "external ref='figures/glom_data_details.png' "
@@ -543,23 +426,23 @@ msgid ""
 msgstr "ok"
 
 #. (itstool) path: screenshot/mediaobject
-#: C/index.docbook:273
+#: C/index.docbook:272
 msgid ""
-"<imageobject><imagedata fileref=\"figures/glom_data_details.png\" format="
-"\"PNG\"/> </imageobject> <textobject> <phrase>The Details View.</phrase> </"
-"textobject>"
+"<imageobject><imagedata fileref=\"figures/glom_data_details.png\" "
+"format=\"PNG\"/> </imageobject> <textobject> <phrase>The Details View.</"
+"phrase> </textobject>"
 msgstr ""
-"<imageobject><imagedata fileref=\"figures/glom_data_details.png\" format="
-"\"PNG\"/> </imageobject> <textobject> <phrase>Die Detailansicht.</phrase> </"
-"textobject>"
+"<imageobject><imagedata fileref=\"figures/glom_data_details.png\" "
+"format=\"PNG\"/> </imageobject> <textobject> <phrase>Die Detailansicht.</"
+"phrase> </textobject>"
 
 #. (itstool) path: sect2/title
-#: C/index.docbook:289
+#: C/index.docbook:288
 msgid "Finding Data"
 msgstr "Daten suchen"
 
 #. (itstool) path: sect2/para
-#: C/index.docbook:290
+#: C/index.docbook:289
 msgid ""
 "Choose <literal>Find Mode</literal> from the Mode menu. The fields in the "
 "List and Details views will now be empty, and a Find button will appear at "
@@ -571,7 +454,7 @@ msgstr ""
 "des Fensters."
 
 #. (itstool) path: sect2/para
-#: C/index.docbook:291
+#: C/index.docbook:290
 msgid ""
 "Enter information, or part of the information, into a field to find records "
 "with that information in that field. For instance, enter Jim into a name "
@@ -584,7 +467,7 @@ msgstr ""
 "enthalten."
 
 #. (itstool) path: sect2/para
-#: C/index.docbook:292
+#: C/index.docbook:291
 msgid ""
 "When you press the <literal>Find</literal> button, Glom will search for "
 "records and then display them. If only one record is found then it will show "
@@ -597,12 +480,12 @@ msgstr ""
 "gefunden wurden, werden diese in der Listenansicht angezeigt."
 
 #. (itstool) path: sect2/title
-#: C/index.docbook:297
+#: C/index.docbook:296
 msgid "Printing Reports"
 msgstr "Drucken von Berichten"
 
 #. (itstool) path: sect2/para
-#: C/index.docbook:298
+#: C/index.docbook:297
 msgid ""
 "If your database developer has defined some reports for a table then you "
 "will see them listed in the <literal>Reports</literal> menu. Just choose the "
@@ -622,7 +505,7 @@ msgstr ""
 "wechseln müssen, um einen bestimmten Bericht erstellen zu können."
 
 #. (itstool) path: figure/title
-#: C/index.docbook:301
+#: C/index.docbook:300
 msgid "A report"
 msgstr "Ein Bericht"
 
@@ -631,7 +514,7 @@ msgstr "Ein Bericht"
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/index.docbook:305
+#: C/index.docbook:304
 msgctxt "_"
 msgid ""
 "external ref='figures/glom_report_result.png' "
@@ -639,23 +522,23 @@ msgid ""
 msgstr "ok"
 
 #. (itstool) path: screenshot/mediaobject
-#: C/index.docbook:303
+#: C/index.docbook:302
 msgid ""
-"<imageobject><imagedata fileref=\"figures/glom_report_result.png\" format="
-"\"PNG\"/> </imageobject> <textobject> <phrase>A report.</phrase> </"
+"<imageobject><imagedata fileref=\"figures/glom_report_result.png\" "
+"format=\"PNG\"/> </imageobject> <textobject> <phrase>A report.</phrase> </"
 "textobject>"
 msgstr ""
-"<imageobject><imagedata fileref=\"figures/glom_report_result.png\" format="
-"\"PNG\"/> </imageobject> <textobject> <phrase>Ein Bericht.</phrase> </"
+"<imageobject><imagedata fileref=\"figures/glom_report_result.png\" "
+"format=\"PNG\"/> </imageobject> <textobject> <phrase>Ein Bericht.</phrase> </"
 "textobject>"
 
 #. (itstool) path: sect1/title
-#: C/index.docbook:320
+#: C/index.docbook:319
 msgid "Using Glom as a Developer"
 msgstr "Glom als Entwickler benutzen"
 
 #. (itstool) path: sect1/para
-#: C/index.docbook:321
+#: C/index.docbook:320
 msgid ""
 "When you create a new document, Glom will be in the <literal>Developer</"
 "literal> <literal>user level</literal>. You can also change to the Developer "
@@ -669,12 +552,12 @@ msgstr ""
 "Ihnen nur dann gestattet, wenn Ihr Systemverwalter dies erlaubt hat."
 
 #. (itstool) path: sect2/title
-#: C/index.docbook:324
+#: C/index.docbook:323
 msgid "Adding Tables"
 msgstr "Tabellen hinzufügen"
 
 #. (itstool) path: sect2/para
-#: C/index.docbook:325
+#: C/index.docbook:324
 msgid ""
 "You can see the list of existing tables by choosing <literal>Tables</"
 "literal> from the <literal>Navigate</literal> menu. You will also see this "
@@ -702,7 +585,7 @@ msgstr ""
 "navigieren."
 
 #. (itstool) path: sect2/para
-#: C/index.docbook:327
+#: C/index.docbook:326
 msgid ""
 "You can also specify one table as the <literal>default table</literal>. This "
 "table will be shown whenever an operator opens an existing document, without "
@@ -714,14 +597,14 @@ msgstr ""
 "aus einer Liste zu wählen."
 
 #. (itstool) path: sect2/para
-#: C/index.docbook:328
+#: C/index.docbook:327
 msgid "You can also use this window to rename an existing table."
 msgstr ""
 "Sie können dieses Fenster auch dazu verwenden, eine vorhandene Tabelle "
 "umzubenennen."
 
 #. (itstool) path: sect2/para
-#: C/index.docbook:329
+#: C/index.docbook:328
 msgid "Click the <literal>Open</literal> button to look at the selected table."
 msgstr ""
 "Klicken Sie auf den Knopf <guibutton>Öffnen</guibutton>, um die ausgewählte "
@@ -729,12 +612,12 @@ msgstr ""
 
 #. (itstool) path: sect2/title
 #. (itstool) path: figure/title
-#: C/index.docbook:333 C/index.docbook:339
+#: C/index.docbook:332 C/index.docbook:338
 msgid "Editing Fields"
 msgstr "Bearbeiten von Feldern"
 
 #. (itstool) path: sect2/para
-#: C/index.docbook:334
+#: C/index.docbook:333
 msgid ""
 "Choose <literal>Fields</literal> from the <literal>Developer</literal> menu. "
 "This shows the list of fields in the table. New tables automatically have a "
@@ -746,7 +629,7 @@ msgstr ""
 "Primärschlüssel. Bei Bedarf können Sie dieses Feld ändern."
 
 #. (itstool) path: sect2/para
-#: C/index.docbook:335
+#: C/index.docbook:334
 msgid ""
 "Click the <literal>Add</literal> button to add a new field, then enter the "
 "name of the new field. Glom will guess an appropriate human-readable title "
@@ -760,7 +643,7 @@ msgstr ""
 "aktuellen Feldes."
 
 #. (itstool) path: sect2/para
-#: C/index.docbook:336
+#: C/index.docbook:335
 msgid ""
 "To specify more field details, select the field and click the "
 "<literal>Details</literal> button."
@@ -773,7 +656,7 @@ msgstr ""
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/index.docbook:343
+#: C/index.docbook:342
 msgctxt "_"
 msgid ""
 "external ref='figures/glom_design_fields.png' "
@@ -781,31 +664,32 @@ msgid ""
 msgstr "ok"
 
 #. (itstool) path: screenshot/mediaobject
-#: C/index.docbook:341
+#: C/index.docbook:340
 msgid ""
-"<imageobject><imagedata fileref=\"figures/glom_design_fields.png\" format="
-"\"PNG\"/> </imageobject> <textobject> <phrase>Editing the table's fields.</"
-"phrase> </textobject>"
+"<imageobject><imagedata fileref=\"figures/glom_design_fields.png\" "
+"format=\"PNG\"/> </imageobject> <textobject> <phrase>Editing the table's "
+"fields.</phrase> </textobject>"
 msgstr ""
-"<imageobject><imagedata fileref=\"figures/glom_design_fields.png\" format="
-"\"PNG\"/> </imageobject> <textobject> <phrase>Bearbeiten von Tabellenfeldern."
-"</phrase> </textobject>"
+"<imageobject><imagedata fileref=\"figures/glom_design_fields.png\" "
+"format=\"PNG\"/> </imageobject> <textobject> <phrase>Bearbeiten von "
+"Tabellenfeldern.</phrase> </textobject>"
 
 #. (itstool) path: sect3/title
-#: C/index.docbook:354
+#: C/index.docbook:353
 msgid "Primary Keys"
 msgstr "Primärschlüssel"
 
 #. (itstool) path: sect3/para
-#: C/index.docbook:355
+#: C/index.docbook:354
 msgid ""
 "Each table must have one, and only one, <literal>Primary Key</literal>. The "
 "value in this field will be unique, meaning that each value in this field "
 "will appear in only one record in the table. For instance, each record in a "
 "\"Customers\" table would have a \"Customer ID\". This value will be used to "
-"refer to that customer from other tables, such as \"Projects\" and \"Invoices"
-"\" records. See the <link linkend=\"sec-developer-relationships\">Creating "
-"Relationships</link> section to see how you can relate tables together."
+"refer to that customer from other tables, such as \"Projects\" and "
+"\"Invoices\" records. See the <link linkend=\"sec-developer-"
+"relationships\">Creating Relationships</link> section to see how you can "
+"relate tables together."
 msgstr ""
 "Jede Tabelle muss genau einen <literal>Primärschlüssel</literal> haben. Der "
 "Wert in diesem Feld ist eindeutig, was bedeutet, dass der Wert dieses Feldes "
@@ -818,52 +702,52 @@ msgstr ""
 "von Tabellen zueinander erstellen können."
 
 #. (itstool) path: sect3/title
-#: C/index.docbook:359
+#: C/index.docbook:358
 msgid "Field Types"
 msgstr "Feldtypen"
 
 #. (itstool) path: listitem/simpara
-#: C/index.docbook:362
+#: C/index.docbook:361
 msgid "Number"
 msgstr "Zahl"
 
 #. (itstool) path: listitem/simpara
-#: C/index.docbook:363
+#: C/index.docbook:362
 msgid "Text"
 msgstr "Text"
 
 #. (itstool) path: listitem/simpara
-#: C/index.docbook:364
+#: C/index.docbook:363
 msgid "Date"
 msgstr "Datum"
 
 #. (itstool) path: listitem/simpara
-#: C/index.docbook:365
+#: C/index.docbook:364
 msgid "Time"
 msgstr "Zeit"
 
 #. (itstool) path: listitem/simpara
-#: C/index.docbook:366
+#: C/index.docbook:365
 msgid "Boolean - either true or false"
 msgstr "Boolesche Werte - entweder wahr oder falsch"
 
 #. (itstool) path: listitem/simpara
-#: C/index.docbook:367
+#: C/index.docbook:366
 msgid "Image"
 msgstr "Bild"
 
 #. (itstool) path: sect3/para
-#: C/index.docbook:360
+#: C/index.docbook:359
 msgid "Glom offers a few simple field types: <_:orderedlist-1/>"
 msgstr "Glom bietet einige einfache Feldtypen: <_:orderedlist-1/>"
 
 #. (itstool) path: sect3/title
-#: C/index.docbook:373
+#: C/index.docbook:372
 msgid "Calculated Fields"
 msgstr "Berechnete Felder"
 
 #. (itstool) path: sect3/para
-#: C/index.docbook:374
+#: C/index.docbook:373
 msgid ""
 "Field values can be calculated in terms of other fields, using the Python "
 "programming language. This calculation should be the implementation of a "
@@ -881,7 +765,7 @@ msgstr ""
 "keine Feldwerte verwenden."
 
 #. (itstool) path: sect3/para
-#: C/index.docbook:375
+#: C/index.docbook:374
 msgid ""
 "You can also use calculations to specify a default value for fields, by "
 "selecting the <literal>Default Value</literal> tab in the <literal>Field "
@@ -897,12 +781,12 @@ msgstr ""
 "guilabel> überprüfen."
 
 #. (itstool) path: sect2/title
-#: C/index.docbook:381
+#: C/index.docbook:380
 msgid "Arranging Layouts"
 msgstr "Erzeugung von Layouts"
 
 #. (itstool) path: sect2/para
-#: C/index.docbook:382
+#: C/index.docbook:381
 msgid ""
 "Each table has <literal>List</literal> and <literal>Details</literal> views, "
 "and by default these show all fields in the table, in order of creation. You "
@@ -916,12 +800,12 @@ msgstr ""
 "<guilabel>Entwickler</guilabel> wählen."
 
 #. (itstool) path: sect3/title
-#: C/index.docbook:385
+#: C/index.docbook:384
 msgid "Arranging the List View"
 msgstr "Anordnen der Listenansicht"
 
 #. (itstool) path: sect3/para
-#: C/index.docbook:386
+#: C/index.docbook:385
 msgid ""
 "For the <literal>List</literal> view, you can specify the sequence of field "
 "columns, and whether some fields are hidden."
@@ -930,7 +814,7 @@ msgstr ""
 "angezeigten Spalten angeben, sowie ob einige Felder verborgen werden sollen."
 
 #. (itstool) path: figure/title
-#: C/index.docbook:389
+#: C/index.docbook:388
 msgid "Editing the List Layout"
 msgstr "Bearbeiten der Listenansicht"
 
@@ -939,7 +823,7 @@ msgstr "Bearbeiten der Listenansicht"
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/index.docbook:393
+#: C/index.docbook:392
 msgctxt "_"
 msgid ""
 "external ref='figures/glom_design_layout_list.png' "
@@ -947,7 +831,7 @@ msgid ""
 msgstr "ok"
 
 #. (itstool) path: screenshot/mediaobject
-#: C/index.docbook:391
+#: C/index.docbook:390
 msgid ""
 "<imageobject><imagedata fileref=\"figures/glom_design_layout_list.png\" "
 "format=\"PNG\"/> </imageobject> <textobject> <phrase>Editing the list layout."
@@ -958,12 +842,12 @@ msgstr ""
 "Listenansicht.</phrase> </textobject>"
 
 #. (itstool) path: sect3/title
-#: C/index.docbook:404
+#: C/index.docbook:403
 msgid "Arranging the Details View"
 msgstr "Festlegen der Anordnung der Detailansicht"
 
 #. (itstool) path: sect3/para
-#: C/index.docbook:405
+#: C/index.docbook:404
 msgid ""
 "For the <literal>Details</literal> view, you can create groups of fields, "
 "and give these groups titles. You can then place fields in these groups and "
@@ -982,7 +866,7 @@ msgstr ""
 "Für die »Adresse«-Felder könnten Sie dann wiederum andere Gruppen verwenden."
 
 #. (itstool) path: figure/title
-#: C/index.docbook:408
+#: C/index.docbook:407
 msgid "Editing the details Layout"
 msgstr "Bearbeiten der Detailansicht"
 
@@ -991,7 +875,7 @@ msgstr "Bearbeiten der Detailansicht"
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/index.docbook:412
+#: C/index.docbook:411
 msgctxt "_"
 msgid ""
 "external ref='figures/glom_design_layout_details.png' "
@@ -999,7 +883,7 @@ msgid ""
 msgstr "ok"
 
 #. (itstool) path: screenshot/mediaobject
-#: C/index.docbook:410
+#: C/index.docbook:409
 msgid ""
 "<imageobject><imagedata fileref=\"figures/glom_design_layout_details.png\" "
 "format=\"PNG\"/> </imageobject> <textobject> <phrase>Editing the Details "
@@ -1010,12 +894,12 @@ msgstr ""
 "Detailansicht.</phrase> </textobject>"
 
 #. (itstool) path: sect2/title
-#: C/index.docbook:425
+#: C/index.docbook:424
 msgid "Creating Relationships"
 msgstr "Erstellen von Beziehungen"
 
 #. (itstool) path: sect2/para
-#: C/index.docbook:426
+#: C/index.docbook:425
 msgid ""
 "Tables in the Database are often related together. For instance, an "
 "\"Invoices\" table might have a \"Customer ID\" field. A value in this field "
@@ -1034,7 +918,7 @@ msgstr ""
 "die einen Bezug zum Datensatz in der Tabelle »Rechnungen« haben."
 
 #. (itstool) path: sect2/para
-#: C/index.docbook:427
+#: C/index.docbook:426
 msgid ""
 "To create relationships, choose <literal>Relationships</literal> from the "
 "<literal>Developer</literal> menu. This will show the list of existing "
@@ -1055,17 +939,17 @@ msgstr ""
 "gleich sind."
 
 #. (itstool) path: listitem/simpara
-#: C/index.docbook:432
+#: C/index.docbook:431
 msgid "To show a related field on the List or Details view."
 msgstr "Anzeige eines Bezugsfeldes in der Listen- oder Detailansicht."
 
 #. (itstool) path: listitem/simpara
-#: C/index.docbook:433
+#: C/index.docbook:432
 msgid "To show a list of related records on the Details view."
-msgstr "Anzeige einer Liste von Bezugsdatensätzen in der Detailsansicht."
+msgstr "Anzeige einer Liste von Bezugsdatensätzen in der Detailansicht."
 
 #. (itstool) path: listitem/simpara
-#: C/index.docbook:434
+#: C/index.docbook:433
 msgid ""
 "To lookup a value from a field in a related record. For instance, to copy "
 "the current price of a \"Product\" into the \"Price\" field of an \"Invoice "
@@ -1076,12 +960,12 @@ msgstr ""
 "eines »Rechnungszeilen«-Datensatzes zu kopieren."
 
 #. (itstool) path: listitem/simpara
-#: C/index.docbook:435
+#: C/index.docbook:434
 msgid "To calculate a field value."
 msgstr "Berechnung eines Feldwertes."
 
 #. (itstool) path: sect2/para
-#: C/index.docbook:429
+#: C/index.docbook:428
 msgid ""
 "You can use the relationship in the following places. <_:orderedlist-1/>"
 msgstr ""
@@ -1089,12 +973,12 @@ msgstr ""
 "orderedlist-1/>"
 
 #. (itstool) path: sect2/title
-#: C/index.docbook:441
+#: C/index.docbook:440
 msgid "Users Administration"
 msgstr "Benutzer-Administration"
 
 #. (itstool) path: sect2/para
-#: C/index.docbook:442
+#: C/index.docbook:441
 msgid ""
 "To define the <literal>Operators</literal> who can use your database, and to "
 "specify what access they have to the various tables, choose <literal>Users</"
@@ -1107,12 +991,12 @@ msgstr ""
 
 #. (itstool) path: sect2/title
 #. (itstool) path: figure/title
-#: C/index.docbook:447 C/index.docbook:454
+#: C/index.docbook:446 C/index.docbook:453
 msgid "Translations"
 msgstr "Übersetzungen"
 
 #. (itstool) path: sect2/para
-#: C/index.docbook:448
+#: C/index.docbook:447
 msgid ""
 "Glom's user interface (and this document) is translated into several "
 "languages, as you should see already if you are using your computer with a "
@@ -1132,7 +1016,7 @@ msgstr ""
 "als 13.1.2008 sehen würde."
 
 #. (itstool) path: sect2/para
-#: C/index.docbook:449
+#: C/index.docbook:448
 msgid ""
 "However, the Glom system that you create also contains text that must be "
 "translated if it will be used by people who speak different languages. For "
@@ -1148,7 +1032,7 @@ msgstr ""
 "übersetzt werden muss, sofern es von Benutzern verwendet werden soll, die "
 "nicht die gleiche Sprache sprechen. Beispielsweise werden Sie übersetzte "
 "Versionen für die Namen Ihrer Tabellen, die Felder und die Berichte "
-"benötigen. Alle diese Textobjekte sehen Sie zusammengefasst in einer Liste, "
+"benötigen. All diese Textobjekte sehen Sie zusammengefasst in einer Liste, "
 "wenn Sie <guilabel>Übersetzungen</guilabel> im Menü <guimenu>Entwickler</"
 "guimenu> wählen. In diesem Fenster können Sie angeben, in welcher Sprache "
 "der Originaltext verfasst wurde. Außerdem können Sie hier Übersetzungen für "
@@ -1161,7 +1045,7 @@ msgstr ""
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/index.docbook:458
+#: C/index.docbook:457
 msgctxt "_"
 msgid ""
 "external ref='figures/glom_design_translations.png' "
@@ -1169,7 +1053,7 @@ msgid ""
 msgstr "ok"
 
 #. (itstool) path: screenshot/mediaobject
-#: C/index.docbook:456
+#: C/index.docbook:455
 msgid ""
 "<imageobject><imagedata fileref=\"figures/glom_design_translations.png\" "
 "format=\"PNG\"/> </imageobject> <textobject> <phrase>Translations.</phrase> "
@@ -1180,7 +1064,7 @@ msgstr ""
 "</textobject>"
 
 #. (itstool) path: sect2/para
-#: C/index.docbook:467
+#: C/index.docbook:466
 msgid ""
 "Experienced translators may be more familiar with the .po file format, or "
 "you might wish to use the many tools that work with the .po file format. By "
@@ -1197,17 +1081,17 @@ msgstr ""
 "wieder in das System einfügen."
 
 #. (itstool) path: sect2/title
-#: C/index.docbook:472
+#: C/index.docbook:471
 msgid "Defining Reports"
 msgstr "Anfertigen von Berichten"
 
 #. (itstool) path: sect3/title
-#: C/index.docbook:475
+#: C/index.docbook:474
 msgid "Adding or Editing Reports"
 msgstr "Hinzufügen oder Bearbeiten von Berichten"
 
 #. (itstool) path: sect3/para
-#: C/index.docbook:477
+#: C/index.docbook:476
 msgid ""
 "Glom can produce reports to show specific fields for sets of records, sorted "
 "and grouped. For instance, a shop might need a report listing all products "
@@ -1223,7 +1107,7 @@ msgstr ""
 "Operator im Menü <guilabel>Berichte</guilabel> einsehbar sind."
 
 #. (itstool) path: sect3/para
-#: C/index.docbook:479
+#: C/index.docbook:478
 msgid ""
 "To define a report, or to change the definition of an existing report, "
 "choose <literal>Reports</literal> from the <literal>Developer</literal> menu."
@@ -1233,7 +1117,7 @@ msgstr ""
 "<guimenu>Entwickler</guimenu>."
 
 #. (itstool) path: figure/title
-#: C/index.docbook:481
+#: C/index.docbook:480
 msgid "Creating or Editing Reports"
 msgstr "Erzeugen oder Bearbeiten von Berichten"
 
@@ -1242,7 +1126,7 @@ msgstr "Erzeugen oder Bearbeiten von Berichten"
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/index.docbook:485
+#: C/index.docbook:484
 msgctxt "_"
 msgid ""
 "external ref='figures/glom_design_reports.png' "
@@ -1250,18 +1134,18 @@ msgid ""
 msgstr "ok"
 
 #. (itstool) path: screenshot/mediaobject
-#: C/index.docbook:483
+#: C/index.docbook:482
 msgid ""
-"<imageobject><imagedata fileref=\"figures/glom_design_reports.png\" format="
-"\"PNG\"/> </imageobject> <textobject> <phrase>Creating or editing reports.</"
-"phrase> </textobject>"
+"<imageobject><imagedata fileref=\"figures/glom_design_reports.png\" "
+"format=\"PNG\"/> </imageobject> <textobject> <phrase>Creating or editing "
+"reports.</phrase> </textobject>"
 msgstr ""
-"<imageobject><imagedata fileref=\"figures/glom_design_reports.png\" format="
-"\"PNG\"/> </imageobject> <textobject> <phrase>Erstellen oder Bearbeiten von "
-"Berichten.</phrase> </textobject>"
+"<imageobject><imagedata fileref=\"figures/glom_design_reports.png\" "
+"format=\"PNG\"/> </imageobject> <textobject> <phrase>Erstellen oder "
+"Bearbeiten von Berichten.</phrase> </textobject>"
 
 #. (itstool) path: sect3/para
-#: C/index.docbook:494
+#: C/index.docbook:493
 msgid ""
 "Notice that each report has an ID as well as a human-readable name. This "
 "allows your report to have a translated title when used on a computer that "
@@ -1274,17 +1158,17 @@ msgstr ""
 
 #. (itstool) path: sect3/title
 #. (itstool) path: figure/title
-#: C/index.docbook:499 C/index.docbook:513
+#: C/index.docbook:498 C/index.docbook:512
 msgid "Editing a Report"
 msgstr "Bearbeiten eines Berichts"
 
 #. (itstool) path: listitem/simpara
-#: C/index.docbook:503
+#: C/index.docbook:502
 msgid "The Header, which appears at the start of the report"
 msgstr "Die Kopfzeile, welche am Beginn des Berichts erscheint."
 
 #. (itstool) path: listitem/simpara
-#: C/index.docbook:504
+#: C/index.docbook:503
 msgid ""
 "The Main area, in which the records and summary lines are shown, with the "
 "actual data from the database."
@@ -1293,17 +1177,17 @@ msgstr ""
 "erscheinen, mit den aktuellen Daten aus der Datenbank."
 
 #. (itstool) path: listitem/simpara
-#: C/index.docbook:505
+#: C/index.docbook:504
 msgid "The Footer, which appears at the end of the report."
 msgstr "Die Fußzeile, welche am Ende des Berichts erscheint."
 
 #. (itstool) path: sect3/para
-#: C/index.docbook:501
+#: C/index.docbook:500
 msgid "A Glom report has three areas: <_:orderedlist-1/>"
 msgstr "Ein Glom-Bericht gliedert sich in drei Bereiche: <_:orderedlist-1/>"
 
 #. (itstool) path: sect3/para
-#: C/index.docbook:509
+#: C/index.docbook:508
 msgid ""
 "Inside an area, such as the Main part, you may add report <literal>Parts</"
 "literal>, such as fields, text, or images. These will usually appear in a "
@@ -1323,7 +1207,7 @@ msgstr ""
 "zur <literal>Teileliste</literal> im ausgewählten Bereich hinzugefügt."
 
 #. (itstool) path: sect3/para
-#: C/index.docbook:510
+#: C/index.docbook:509
 msgid ""
 "To specify details for the parts, such as the text or image to display, or "
 "to choose the field to display, select the part in the <literal>Parts</"
@@ -1332,7 +1216,7 @@ msgid ""
 "button, just as you would when defining a details or list layout."
 msgstr ""
 "Um Details zu den Teilen anzugeben, wie den Text oder das anzuzeigende Bild, "
-"oder umdas anzuzeigende Feld auszuwählen, wählen Sie den Teil in der "
+"oder um das anzuzeigende Feld auszuwählen, wählen Sie den Teil in der "
 "<literal>Teileliste</literal> aus und klicken Sie auf den Knopf "
 "<guibutton>Hinzufügen</guibutton>. Sie können auch mit dem Knopf "
 "<guibutton>Formatierung</guibutton> die Feldformatierung anpassen, wenn Sie "
@@ -1343,7 +1227,7 @@ msgstr ""
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/index.docbook:517
+#: C/index.docbook:516
 msgctxt "_"
 msgid ""
 "external ref='figures/glom_design_reports_details.png' "
@@ -1351,7 +1235,7 @@ msgid ""
 msgstr "ok"
 
 #. (itstool) path: screenshot/mediaobject
-#: C/index.docbook:515
+#: C/index.docbook:514
 msgid ""
 "<imageobject><imagedata fileref=\"figures/glom_design_reports_details.png\" "
 "format=\"PNG\"/> </imageobject> <textobject> <phrase>Editing a report.</"
@@ -1362,7 +1246,7 @@ msgstr ""
 "Berichts.</phrase> </textobject>"
 
 #. (itstool) path: sect3/para
-#: C/index.docbook:526
+#: C/index.docbook:525
 msgid ""
 "Some parts may contain other parts and have extra properties to control how "
 "they present their child parts. For instance, the <literal>Group By</"
@@ -1387,7 +1271,7 @@ msgstr ""
 "jeder Produkttypgruppe nach Hersteller gruppieren."
 
 #. (itstool) path: sect3/para
-#: C/index.docbook:527
+#: C/index.docbook:526
 msgid ""
 "To specify the field by which the records should be grouped, select your "
 "<literal>Group By</literal> part in the <literal>Parts</literal> list and "
@@ -1410,7 +1294,7 @@ msgstr ""
 "den Herstellernamen anzeigen."
 
 #. (itstool) path: figure/title
-#: C/index.docbook:530
+#: C/index.docbook:529
 msgid "Editing a Group By Part"
 msgstr "Bearbeiten eines <guilabel>Gruppieren nach</guilabel>-Teils"
 
@@ -1419,7 +1303,7 @@ msgstr "Bearbeiten eines <guilabel>Gruppieren nach</guilabel>-Teils"
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/index.docbook:534
+#: C/index.docbook:533
 msgctxt "_"
 msgid ""
 "external ref='figures/glom_design_reports_group_by.png' "
@@ -1427,7 +1311,7 @@ msgid ""
 msgstr "ok"
 
 #. (itstool) path: screenshot/mediaobject
-#: C/index.docbook:532
+#: C/index.docbook:531
 msgid ""
 "<imageobject><imagedata fileref=\"figures/glom_design_reports_group_by.png\" "
 "format=\"PNG\"/> </imageobject> <textobject> <phrase>Editing a report.</"
@@ -1438,7 +1322,7 @@ msgstr ""
 "Berichts.</phrase> </textobject>"
 
 #. (itstool) path: sect3/para
-#: C/index.docbook:543
+#: C/index.docbook:542
 msgid ""
 "The <literal>Vertical Group</literal> part may contain other items. For "
 "instance, it allows you to arrange fields below each other instead of just "
@@ -1454,7 +1338,7 @@ msgstr ""
 "anzuzeigen."
 
 #. (itstool) path: figure/title
-#: C/index.docbook:546
+#: C/index.docbook:545
 msgid "A Report with Vertical Groups"
 msgstr "Ein Bericht mit vertikalen Gruppen"
 
@@ -1463,7 +1347,7 @@ msgstr "Ein Bericht mit vertikalen Gruppen"
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/index.docbook:550
+#: C/index.docbook:549
 msgctxt "_"
 msgid ""
 "external ref='figures/glom_design_reports_vertical_group.png' "
@@ -1471,7 +1355,7 @@ msgid ""
 msgstr "ok"
 
 #. (itstool) path: screenshot/mediaobject
-#: C/index.docbook:548
+#: C/index.docbook:547
 msgid ""
 "<imageobject><imagedata fileref=\"figures/glom_design_reports_vertical_group."
 "png\" format=\"PNG\"/> </imageobject> <textobject> <phrase>A Report with "
@@ -1482,7 +1366,7 @@ msgstr ""
 "vertikalen Gruppen.</phrase> </textobject>"
 
 #. (itstool) path: sect3/para
-#: C/index.docbook:559
+#: C/index.docbook:558
 msgid ""
 "When you have finished, click the <literal>Close</literal> button to save "
 "the report's definition. Your report can then be chosen from the "
@@ -1496,17 +1380,17 @@ msgstr ""
 "printing-reports\">Drucken von Berichten</link>."
 
 #. (itstool) path: sect1/title
-#: C/index.docbook:573
+#: C/index.docbook:572
 msgid "Dialogs"
 msgstr "Dialoge"
 
 #. (itstool) path: sect2/title
-#: C/index.docbook:576
+#: C/index.docbook:575
 msgid "Dialog: Initial dialog"
 msgstr "Dialog: Startdialog"
 
 #. (itstool) path: sect2/para
-#: C/index.docbook:577
+#: C/index.docbook:576
 msgid ""
 "This dialog allows the user to choose an existing document or create a new "
 "document. Existing documents may be selecting from the list of recently "
@@ -1526,22 +1410,22 @@ msgstr ""
 "und Datensätze enthält, oder durch Erstellen eines leeren Dokuments."
 
 #. (itstool) path: sect2/title
-#: C/index.docbook:581
+#: C/index.docbook:580
 msgid "Dialog: New database"
 msgstr "Dialog: Neue Datenbank"
 
 #. (itstool) path: sect2/title
-#: C/index.docbook:586
+#: C/index.docbook:585
 msgid "Dialog: Create database"
 msgstr "Dialog: Datenbank anlegen"
 
 #. (itstool) path: sect2/title
-#: C/index.docbook:591
+#: C/index.docbook:590
 msgid "Dialog: Connection"
 msgstr "Dialog: Verbindung"
 
 #. (itstool) path: sect2/para
-#: C/index.docbook:592
+#: C/index.docbook:591
 msgid ""
 "This dialog requests a user name and password for connection to a database "
 "server. This is usually not the same username and password combination with "
@@ -1560,30 +1444,31 @@ msgstr ""
 "Rechners im Netzwerk angeben, wie »glomserver.openismus.com«, als Beispiel."
 
 #. (itstool) path: sect2/para
-#: C/index.docbook:593
+#: C/index.docbook:592
 msgid "Your system administrator can provide these database login details."
 msgstr "Ihr Systemverwalter kann die folgenden Anmeldedetails bereitstellen."
 
 #. (itstool) path: sect2/para
-#: C/index.docbook:594
+#: C/index.docbook:593
 msgid ""
 "If you are the system administrator, see Glom's <ulink url=\"http://www.glom."
-"org/wiki/index.php?title=Initial_Postgres_Configuration\" type=\"http"
-"\">Postgres Configuration</ulink> web page for help with installing and "
-"configuring a database server."
+"org/wiki/index.php?title=Initial_Postgres_Configuration\" "
+"type=\"http\">Postgres Configuration</ulink> web page for help with "
+"installing and configuring a database server."
 msgstr ""
-"Falls Sie selbst der Systemverwalter sind, finden Sie auf der <ulink url="
-"\"http://www.glom.org/wiki/index.php?title=Initial_Postgres_Configuration\" "
-"type=\"http\">Glom-Webseite zur PostgreSQL-Konfiguration</ulink> Hilfe zur "
-"Installation und Konfiguration eines Datenbankservers."
+"Falls Sie selbst der Systemverwalter sind, finden Sie auf der <ulink "
+"url=\"http://www.glom.org/wiki/index.php?"
+"title=Initial_Postgres_Configuration\" type=\"http\">Glom-Webseite zur "
+"PostgreSQL-Konfiguration</ulink> Hilfe zur Installation und Konfiguration "
+"eines Datenbankservers."
 
 #. (itstool) path: sect2/title
-#: C/index.docbook:598
+#: C/index.docbook:597
 msgid "Dialog: Connection Error"
 msgstr "Dialog: Verbindungsfehler"
 
 #. (itstool) path: sect2/para
-#: C/index.docbook:599
+#: C/index.docbook:598
 msgid ""
 "This dialog is shown when Glom could not connect to the specified database "
 "server. Either the database server is not running at the specified hostname, "
@@ -1595,105 +1480,105 @@ msgstr ""
 "Datenbankserver aufbauen konnte. Entweder läuft der Datenbankserver auf dem "
 "Rechner dieses Namens nicht oder der Benutzername und das Passwort wurden "
 "vom Datenbankserver nicht anerkannt. Weitere Informationen hierzu finden Sie "
-"im Abschnitt <link linkend=\"dialog_connection\">Verbindungsdialog</link>"
+"im Abschnitt <link linkend=\"dialog_connection\">Verbindungsdialog</link>."
 
 #. (itstool) path: sect2/title
-#: C/index.docbook:605
+#: C/index.docbook:604
 msgid "Dialog: Database preferences"
 msgstr "Dialog: Datenbankeinstellungen"
 
 #. (itstool) path: sect2/title
-#: C/index.docbook:610
+#: C/index.docbook:609
 msgid "Dialog: Change language"
 msgstr "Dialog: Ändern der Spracheinstellungen"
 
 #. (itstool) path: sect2/title
-#: C/index.docbook:615
+#: C/index.docbook:614
 msgid "Window: Textobject"
 msgstr "Fenster: Textobjekt"
 
 #. (itstool) path: sect2/title
-#: C/index.docbook:620
+#: C/index.docbook:619
 msgid "Window: Imageobject"
 msgstr "Fenster: Bildobjekt"
 
 #. (itstool) path: sect2/title
-#: C/index.docbook:625
+#: C/index.docbook:624
 msgid "Dialog: Notebook"
 msgstr "Dialog: Reitermappen"
 
 #. (itstool) path: sect2/title
-#: C/index.docbook:630
+#: C/index.docbook:629
 msgid "Dialog: Data invalid format"
 msgstr "Dialog: Ungültige Formatierung"
 
 #. (itstool) path: sect2/title
-#: C/index.docbook:635
+#: C/index.docbook:634
 msgid "Dialog: Relationship overview"
 msgstr "Dialog: Überblick über Beziehungen"
 
 #. (itstool) path: sect2/title
-#: C/index.docbook:640
+#: C/index.docbook:639
 msgid "Window: Groups"
 msgstr "Fenster: Gruppen"
 
 #. (itstool) path: sect2/title
-#: C/index.docbook:645
+#: C/index.docbook:644
 msgid "Dialog: Group by sort fields"
 msgstr "Dialog: Gruppieren nach sortierten Feldern"
 
 #. (itstool) path: sect2/title
-#: C/index.docbook:650
+#: C/index.docbook:649
 msgid "Dialog: Group by secondary fields"
 msgstr "Dialog: Gruppieren nach sekundären Feldern"
 
 #. (itstool) path: sect2/title
-#: C/index.docbook:655
+#: C/index.docbook:654
 msgid "Window: Button script"
 msgstr "Fenster: Knopfskript"
 
 #. (itstool) path: sect2/title
-#: C/index.docbook:660
+#: C/index.docbook:659
 msgid "Window: Field calculation"
 msgstr "Fenster: Feldberechnung"
 
 #. (itstool) path: sect2/title
-#: C/index.docbook:665
+#: C/index.docbook:664
 msgid "Dialog: New group"
 msgstr "Dialog: Benutzer wählen"
 
 #. (itstool) path: sect2/title
-#: C/index.docbook:670
+#: C/index.docbook:669
 msgid "Dialog: Choose user"
 msgstr "Dialog: Benutzer wählen"
 
 #. (itstool) path: sect2/title
-#: C/index.docbook:675
+#: C/index.docbook:674
 msgid "Dialog: User"
 msgstr "Dialog: Benutzer"
 
 #. (itstool) path: sect2/title
-#: C/index.docbook:680
+#: C/index.docbook:679
 msgid "Dialog: Translation identify original"
 msgstr "Dialog: Identifizierung der Übersetzung am Original"
 
 #. (itstool) path: sect2/title
-#: C/index.docbook:685
+#: C/index.docbook:684
 msgid "Dialog: Translation copy"
 msgstr "Dialog: Übersetzungskopie"
 
 #. (itstool) path: sect2/title
-#: C/index.docbook:690
+#: C/index.docbook:689
 msgid "Dialog: Choose Date"
 msgstr "Dialog: Datum wählen"
 
 #. (itstool) path: sect2/title
-#: C/index.docbook:695
+#: C/index.docbook:694
 msgid "Dialog: Import Into Table"
 msgstr "Dialog: In Tabelle importieren"
 
 #. (itstool) path: sect2/para
-#: C/index.docbook:696
+#: C/index.docbook:695
 msgid ""
 "This dialog allows the user to import a CSV (comma separated value) file "
 "into the current database table. It shows the first few rows of the file to "
@@ -1711,12 +1596,12 @@ msgstr ""
 "muss eine Spalte in das Primärschlüsselfeld importiert werden."
 
 #. (itstool) path: sect1/title
-#: C/index.docbook:719
+#: C/index.docbook:718
 msgid "About Glom"
 msgstr "Über Glom"
 
 #. (itstool) path: sect1/para
-#: C/index.docbook:720
+#: C/index.docbook:719
 msgid ""
 "Glom is maintained by Glom and GNOME community volunteers. To find more "
 "information about Glom, please visit the <ulink url=\"http://www.glom.org/\" "
@@ -1726,17 +1611,6 @@ msgstr ""
 "application>- und GNOME-Gemeinschaft betreut. Weitere Informationen über "
 "<application>Glom</application> finden Sie auf <ulink url=\"http://www.glom."
 "org/\" type=\"http\">dessen Webseite</ulink>."
-
-#. (itstool) path: sect1/para
-#: C/index.docbook:725
-msgid ""
-"To report a bug or make a suggestion regarding this application or this "
-"manual, you can submit them using <ulink url=\"http://bugzilla.gnome.org\" "
-"type=\"help\">bugzilla</ulink>."
-msgstr ""
-"Um einen Fehler zu melden oder einen Vorschlag zu dieser Anwendung oder zu "
-"diesem Handbuch zu machen, benutzen Sie bitte <ulink url=\"http://bugzilla."
-"gnome.org\" type=\"help\">das Fehlererfassungssystem von GNOME</ulink>."
 
 #. (itstool) path: sect1/para
 #: C/index.docbook:731
@@ -2223,3 +2097,132 @@ msgstr ""
 "sowie ohne Texte auf dem vorderen und hinteren Buchdeckel kopiert, verteilt "
 "und/oder modifiziert werden. Eine Kopie der GFDL finden Sie unter diesem <_:"
 "ulink-1/> oder in der mit diesem Handbuch gelieferten Datei COPYING-DOCS."
+
+#. (itstool) path: legalnotice/para
+#: C/legal.xml:12
+msgid ""
+"This manual is part of a collection of GNOME manuals distributed under the "
+"GFDL. If you want to distribute this manual separately from the collection, "
+"you can do so by adding a copy of the license to the manual, as described in "
+"section 6 of the license."
+msgstr ""
+"Dieses Handbuch ist Teil einer Sammlung von GNOME-Handbüchern, die unter der "
+"GFDL veröffentlicht werden. Wenn Sie dieses Handbuch getrennt von der "
+"Sammlung weiterverbreiten möchten, können Sie das tun, indem Sie eine Kopie "
+"der Lizenz zum Handbuch hinzufügen, wie es in Abschnitt 6 der Lizenz "
+"beschrieben ist."
+
+#. (itstool) path: legalnotice/para
+#: C/legal.xml:19
+msgid ""
+"Many of the names used by companies to distinguish their products and "
+"services are claimed as trademarks. Where those names appear in any GNOME "
+"documentation, and the members of the GNOME Documentation Project are made "
+"aware of those trademarks, then the names are in capital letters or initial "
+"capital letters."
+msgstr ""
+"Viele der Namen, die von Unternehmen verwendet werden, um ihre Produkte und "
+"Dienstleistungen von anderen zu unterscheiden, sind eingetragene "
+"Warenzeichen. An den Stellen, an denen diese Namen in einer GNOME-"
+"Dokumentation erscheinen, werden die Namen in Großbuchstaben oder mit einem "
+"großen Anfangsbuchstaben geschrieben, wenn das GNOME-Dokumentationsprojekt "
+"auf diese Warenzeichen hingewiesen wird."
+
+#. (itstool) path: listitem/para
+#: C/legal.xml:35
+msgid ""
+"DOCUMENT IS PROVIDED ON AN \"AS IS\" BASIS, WITHOUT WARRANTY OF ANY KIND, "
+"EITHER EXPRESSED OR IMPLIED, INCLUDING, WITHOUT LIMITATION, WARRANTIES THAT "
+"THE DOCUMENT OR MODIFIED VERSION OF THE DOCUMENT IS FREE OF DEFECTS "
+"MERCHANTABLE, FIT FOR A PARTICULAR PURPOSE OR NON-INFRINGING. THE ENTIRE "
+"RISK AS TO THE QUALITY, ACCURACY, AND PERFORMANCE OF THE DOCUMENT OR "
+"MODIFIED VERSION OF THE DOCUMENT IS WITH YOU. SHOULD ANY DOCUMENT OR "
+"MODIFIED VERSION PROVE DEFECTIVE IN ANY RESPECT, YOU (NOT THE INITIAL "
+"WRITER, AUTHOR OR ANY CONTRIBUTOR) ASSUME THE COST OF ANY NECESSARY "
+"SERVICING, REPAIR OR CORRECTION. THIS DISCLAIMER OF WARRANTY CONSTITUTES AN "
+"ESSENTIAL PART OF THIS LICENSE. NO USE OF ANY DOCUMENT OR MODIFIED VERSION "
+"OF THE DOCUMENT IS AUTHORIZED HEREUNDER EXCEPT UNDER THIS DISCLAIMER; AND"
+msgstr ""
+"DIESES DOKUMENT WIRD »WIE VORLIEGEND« GELIEFERT, OHNE GARANTIEN IRGENDEINER "
+"ART, SOWOHL AUSDRÜCKLICH GENANNTE ALS AUCH ANGEDEUTETE. DIES BEZIEHT SICH "
+"AUCH OHNE EINSCHRÄNKUNG AUF GARANTIEN, DASS DIESES DOKUMENT ODER VERÄNDERTE "
+"FASSUNGEN DIESES DOKUMENTS FREI VON HANDELSDEFEKTEN, FÜR EINEN BESTIMMTEN "
+"ZWECK GEEIGNET IST ODER DASS ES KEINE RECHTE DRITTER VERLETZT. DAS VOLLE "
+"RISIKO WAS QUALITÄT, GENAUIGKEIT UND LEISTUNG DES DOKUMENTS ODER VERÄNDERTE "
+"FASSUNGEN DES DOKUMENTS LIEGT BEI IHNEN. SOLLTE EIN DOKUMENT ODER EINE "
+"VERÄNDERTE FASSUNG DAVON FEHLER IRGENDEINER ART BEINHALTEN, TRAGEN SIE "
+"(NICHT DER URSPRUNGSAUTOR, DER AUTOR ODER EIN MITWIRKENDER) DIE KOSTEN FÜR "
+"NOTWENDIGE DIENSTLEISTUNGEN, REPARATUREN ODER FEHLERKORREKTUREN. DIESER "
+"HAFTUNGSAUSSCHLUSS IST EIN ESSENZIELLER TEIL DIESER LIZENZ. DIE VERWENDUNG "
+"EINES DOKUMENTS ODER EINER VERÄNDERTEN VERSION DES DOKUMENTS IST NICHT "
+"GESTATTET AUßER UNTER BEACHTUNG DIESES HAFTUNGSAUSSCHLUSSES UND"
+
+#. (itstool) path: listitem/para
+#: C/legal.xml:55
+msgid ""
+"UNDER NO CIRCUMSTANCES AND UNDER NO LEGAL THEORY, WHETHER IN TORT (INCLUDING "
+"NEGLIGENCE), CONTRACT, OR OTHERWISE, SHALL THE AUTHOR, INITIAL WRITER, ANY "
+"CONTRIBUTOR, OR ANY DISTRIBUTOR OF THE DOCUMENT OR MODIFIED VERSION OF THE "
+"DOCUMENT, OR ANY SUPPLIER OF ANY OF SUCH PARTIES, BE LIABLE TO ANY PERSON "
+"FOR ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES OF "
+"ANY CHARACTER INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF GOODWILL, "
+"WORK STOPPAGE, COMPUTER FAILURE OR MALFUNCTION, OR ANY AND ALL OTHER DAMAGES "
+"OR LOSSES ARISING OUT OF OR RELATING TO USE OF THE DOCUMENT AND MODIFIED "
+"VERSIONS OF THE DOCUMENT, EVEN IF SUCH PARTY SHALL HAVE BEEN INFORMED OF THE "
+"POSSIBILITY OF SUCH DAMAGES."
+msgstr ""
+"UNTER KEINEN UMSTÄNDEN UND AUF BASIS KEINER RECHTSGRUNDLAGE, EGAL OB DURCH "
+"UNERLAUBTEN HANDLUNGEN (EINSCHLIEßLICH FAHRLÄSSIGKEIT), VERTRAG ODER "
+"ANDERWEITIG KANN DER AUTOR, URSPRUNGSAUTOR, EIN MITWIRKENDER ODER EIN "
+"VERTRIEBSPARTNER DIESES DOKUMENTS ODER EINER VERÄNDERTEN FASSUNG DES "
+"DOKUMENTS ODER EIN ZULIEFERER EINER DIESER PARTEIEN, HAFTBAR GEMACHT WERDEN "
+"FÜR DIREKTE, INDIREKTE, SPEZIELLE, VERSEHENTLICHE ODER FOLGESCHÄDEN "
+"JEGLICHER ART, EINSCHLIEßLICH UND OHNE EINSCHRÄNKUNGEN SCHÄDEN DURCH VERLUST "
+"VON KULANZ, ARBEITSAUSFALL, COMPUTERVERSAGEN ODER COMPUTERFEHLFUNKTIONEN "
+"ODER ALLE ANDEREN SCHÄDEN ODER VERLUSTE, DIE SICH AUS ODER IN VERBINDUNG MIT "
+"DER VERWENDUNG DES DOKUMENTS UND VERÄNDERTER FASSUNGEN DES DOKUMENTS "
+"ERGEBEN, AUCH WENN DIE OBEN GENANNTEN PARTEIEN ÜBER DIE MÖGLICHKEIT SOLCHER "
+"SCHÄDEN INFORMIERT WAREN."
+
+#. (itstool) path: legalnotice/para
+#: C/legal.xml:28
+msgid ""
+"DOCUMENT AND MODIFIED VERSIONS OF THE DOCUMENT ARE PROVIDED UNDER THE TERMS "
+"OF THE GNU FREE DOCUMENTATION LICENSE WITH THE FURTHER UNDERSTANDING THAT: "
+"<_:orderedlist-1/>"
+msgstr ""
+"DAS DOKUMENT UND VERÄNDERTE FASSUNGEN DES DOKUMENTS WERDEN UNTER DEN "
+"BEDINGUNGEN DER GNU FREE DOCUMENTATION LICENSE ZUR VERFÜGUNG GESTELLT MIT "
+"DEM WEITERGEHENDEN VERSTÄNDNIS, DASS: <_:orderedlist-1/>"
+
+#~ msgid ""
+#~ "Permission is granted to copy, distribute and/or modify this document "
+#~ "under the terms of the GNU Free Documentation License (GFDL), Version 1.1 "
+#~ "or any later version published by the Free Software Foundation with no "
+#~ "Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. You "
+#~ "can find a copy of the GFDL at this <ulink type=\"help\" url=\"ghelp:"
+#~ "fdl\">link</ulink> or in the file COPYING-DOCS distributed with this "
+#~ "manual."
+#~ msgstr ""
+#~ "Das vorliegende Dokument kann gemäß den Bedingungen der GNU Free "
+#~ "Documentation License (GFDL), Version 1.1 oder jeder späteren, von der "
+#~ "Free Software Foundation veröffentlichten Version ohne unveränderbare "
+#~ "Abschnitte sowie ohne Texte auf dem vorderen und hinteren Buchdeckel "
+#~ "kopiert, verteilt und/oder modifiziert werden. Eine Kopie der GFDL finden "
+#~ "Sie unter diesem <ulink type=\"help\" url=\"ghelp:fdl\">Link</ulink> oder "
+#~ "in der mit diesem Handbuch gelieferten Datei COPYING-DOCS."
+
+#~ msgid ""
+#~ "To report a problem or make a suggestion regarding Glom or this manual, "
+#~ "you may submit a bug report to the <ulink url=\"http://bugzilla.gnome."
+#~ "org\" type=\"http\">GNOME Bugzilla </ulink>, under the Glom product. "
+#~ "Please search bugzilla before submitting your bug to ensure that yours "
+#~ "hasn't already been reported."
+#~ msgstr ""
+#~ "Um einen Fehler zu melden oder einen Vorschlag zu <application>Glom</"
+#~ "application> oder zu diesem Handbuch zu machen, können Sie das <ulink "
+#~ "url=\"http://bugzilla.gnome.org\" type=\"http\">Fehlererfassungssystem "
+#~ "von GNOME</ulink> verwenden, in welchem Sie als Produkt "
+#~ "<application>Glom</application> auswählen. Bitte durchsuchen Sie zunächst "
+#~ "die Fehlerdatenbank, um sicher zu gehen, dass über Ihr Anliegen nicht "
+#~ "bereits berichtet wurde."
