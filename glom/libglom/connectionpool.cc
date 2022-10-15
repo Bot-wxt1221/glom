@@ -568,7 +568,11 @@ bool ConnectionPool::handle_error_cerr_only()
 // TODO: This is probably mingw specific
 static __p_sig_fn_t previous_sig_handler = SIG_DFL;
 #else
+#ifdef __APPLE__
+static sig_t previous_sig_handler = SIG_DFL;
+#else
 static sighandler_t previous_sig_handler = SIG_DFL; /* Arbitrary default */
+#endif
 #endif
 
 /* This is a Linux/Unix signal handler,
